@@ -1,0 +1,26 @@
+{
+    "name": "jreb-cv",
+    "description": "The CV website of Dr. Justus Bogner",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "build": "gatsby build",
+        "develop": "gatsby develop",
+        "start": "npm run develop",
+        "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    },
+    "dependencies": {
+        "gatsby": "^4.11.1",
+        "gatsby-plugin-image": "^2.11.1",
+        "gatsby-plugin-manifest": "^4.11.1",
+        "gatsby-plugin-sharp": "^4.11.1",
+        "gatsby-source-filesystem": "^4.11.1",
+        "gatsby-transformer-sharp": "^4.11.0",
+        "gh-pages": "^3.2.3",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-icons": "^4.3.1",
+        "typeface-quicksand": "^1.1.13",
+        "typeface-source-sans-pro": "^1.1.13"
+    }
+}
