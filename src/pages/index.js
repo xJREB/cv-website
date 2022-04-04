@@ -18,16 +18,16 @@ const Home = () => {
                         <About></About>
                     </section>
 
+                    <section className="contact" id="contact">
+                        <Contact></Contact>
+                    </section>
+
                     <section className="research" id="research">
                         <Research></Research>
                     </section>
 
                     <section className="awards" id="awards">
                         <Awards></Awards>
-                    </section>
-
-                    <section className="contact" id="contact">
-                        <Contact></Contact>
                     </section>
                 </div>
                 <GutterRight />

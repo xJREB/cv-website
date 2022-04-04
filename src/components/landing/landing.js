@@ -25,9 +25,9 @@ const Landing = () => {
                     <h1>Dr. {author}</h1>
                     <p>{description}</p>
                     <div className="landing-links">
+                        <Link to="/#contact">Contact</Link>
                         <Link to="/#research">Research</Link>
                         <Link to="/#awards">Awards</Link>
-                        <Link to="/#contact">Contact</Link>
                     </div>
                 </div>
             </Hero>
