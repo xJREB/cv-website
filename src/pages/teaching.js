@@ -11,7 +11,7 @@ const Teaching = () => {
                         I have taught several lectures, tutorials, or seminars
                         in the general area of software engineering, both at the
                         B.Sc. and M.Sc. level and both in German and English.
-                        For two lectures (PE II, and SE4AI), I created the
+                        For two lectures (PE II and SE4AI), I created the
                         lecture content from scratch. I participated in several
                         didactics seminars for higher education from the state
                         of Baden-Württemberg and integrated concepts like

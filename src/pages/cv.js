@@ -11,7 +11,7 @@ const CV = () => {
                     <h1>Curriculum Vitae</h1>
                     <p>
                         Justus Bogner holds a B.Sc. in Applied Computer Science
-                        from Baden-Wuerttemberg Cooperative State University
+                        from Baden-Württemberg Cooperative State University
                         Stuttgart, Germany, and a M.Sc. in Services Computing
                         from University of Applied Sciences Reutlingen, Germany.
                         He was a PhD student in the cooperative doctoral program
