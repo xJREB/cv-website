@@ -80,7 +80,8 @@ nav a svg {
 /* Landing element */
 
 .landing h1 {
-    color: var(--color-landing-hero);
+    color: white;
+    /* color: var(--color-landing-hero); */
     font-size: 45px;
     margin-bottom: 0;
 }

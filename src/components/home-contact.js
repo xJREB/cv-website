@@ -38,33 +38,24 @@ const Footer = () => {
             </h2>
             <div>
                 <p>You can reach or follow me via the following ways:</p>
-                <ul>
-                    <li>
-                        <MdEmail></MdEmail> Email:{" "}
-                        <a href={`mailto:${email}`}>{email}</a>
-                    </li>
-                    <li>
-                        <FaTwitter></FaTwitter> Twitter:{" "}
-                        <a href={twitter}>
-                            {twitter.substring(twitter.indexOf(".com/") + 5)}
-                        </a>
-                    </li>
-                    <li>
-                        <FaGithub></FaGithub> GitHub:{" "}
-                        <a href={github}>
-                            {github.substring(github.indexOf(".com/") + 5)}
-                        </a>
-                    </li>
-                    <li>
-                        <FaResearchgate></FaResearchgate> Researchgate:{" "}
-                        <a href={researchgate}>{config.author}</a>
-                    </li>
-                    <li>
-                        <SiGooglescholar></SiGooglescholar> Google Scholar:{" "}
-                        <a href={googleScholar}>{config.author}</a>
-                    </li>
-                </ul>
-
+                <MdEmail></MdEmail> Email:{" "}
+                <a href={`mailto:${email}`}>{email}</a>
+                <br />
+                <FaTwitter></FaTwitter> Twitter:{" "}
+                <a href={twitter}>
+                    {twitter.substring(twitter.indexOf(".com/") + 5)}
+                </a>
+                <br />
+                <FaGithub></FaGithub> GitHub:{" "}
+                <a href={github}>
+                    {github.substring(github.indexOf(".com/") + 5)}
+                </a>
+                <br />
+                <FaResearchgate></FaResearchgate> Researchgate:{" "}
+                <a href={researchgate}>{config.author}</a>
+                <br />
+                <SiGooglescholar></SiGooglescholar> Google Scholar:{" "}
+                <a href={googleScholar}>{config.author}</a>
                 <p>
                     If you have questions about my research, want to write your
                     student thesis with me, or have an idea for a study
