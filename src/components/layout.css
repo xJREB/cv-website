@@ -82,14 +82,14 @@ nav a svg {
 
 .landing h1 {
     color: white;
-    font-size: 280%;
+    font-size: 250%;
     margin-bottom: 0;
 }
 
 .landing p {
     margin-top: 3px;
     color: var(--color-landing-hero);
-    font-size: 130%;
+    font-size: 115%;
     font-weight: bold;
 }
 
@@ -210,6 +210,10 @@ footer {
     height: var(--footer-height);
 }
 
+.footer-content {
+    padding: 0 20px;
+}
+
 footer a {
     text-decoration: none;
     color: var(--color-font-contrast);
@@ -229,6 +233,12 @@ footer a:active {
 }
 
 /* responsiveness: adjust font and image sizes on smaller screens */
+@media screen and (max-width: 400px) {
+    nav a {
+        font-size: 80%;
+    }
+}
+
 @media screen and (min-width: 1200px) {
     nav a {
         font-size: 120%;

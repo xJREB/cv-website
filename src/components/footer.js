@@ -17,15 +17,17 @@ const Footer = () => {
     return (
         <footer>
             <div className="break"></div>
-            <div>
-                Made with <a href="https://www.gatsbyjs.com">Gatsby</a>,
-                template adapted from{" "}
-                <a href="https://knightjdr.github.io/gatsby-starter-scientist">
-                    gatsby-starter-scientist
-                </a>
+            <div className="footer-content">
+                <div>
+                    Made with <a href="https://www.gatsbyjs.com">Gatsby</a>,
+                    template adapted from{" "}
+                    <a href="https://knightjdr.github.io/gatsby-starter-scientist">
+                        gatsby-starter-scientist
+                    </a>
+                </div>
+                <div className="break"></div>
+                <div>{`© ${new Date().getFullYear()} ${config.author}`}</div>
             </div>
-            <div className="break"></div>
-            <div>{`© ${new Date().getFullYear()} ${config.author}`}</div>
         </footer>
     );
 };
