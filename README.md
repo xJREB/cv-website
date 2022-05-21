@@ -8,6 +8,6 @@
 # start local development server
 npm start
 
-# build for production --> appears in `./public/`
-npm run build
+# build for production and deploy to GitHub pages (appears locally in `./public/`)
+npm run deploy
 ```
