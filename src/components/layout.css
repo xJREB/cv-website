@@ -235,7 +235,7 @@ footer a:active {
 /* responsiveness: adjust font and image sizes on smaller screens */
 @media screen and (max-width: 400px) {
     nav a {
-        font-size: 80%;
+        font-size: 70%;
     }
 }
 
