@@ -192,6 +192,7 @@ nav a svg {
 
 .publications-abstracts {
     font-size: 14px;
+    display: inline-block;
 }
 
 /* Footer */

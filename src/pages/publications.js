@@ -37,7 +37,7 @@ const Publications = () => {
                         </a> |{" "}
                         <a href="http://arxiv.org/abs/2105.01984">Preprint</a>
                         <br />
-                        <div className="publications-abstracts">
+                        <span className="publications-abstracts">
                             <em>Abstract</em>:<br />
                             AI-based systems are software systems with
                             functionalities enabled by at least one AI component
@@ -67,7 +67,7 @@ const Publications = () => {
                             approaches and challenges that SE entails for
                             AI-based systems; and, educators, to bridge the gap
                             among SE and AI in their curricula.
-                        </div>
+                        </span>
                     </p>
 
                     <hr />
@@ -85,7 +85,7 @@ const Publications = () => {
                         </a>{" "}
                         (open access)
                         <br />
-                        <div className="publications-abstracts">
+                        <span className="publications-abstracts">
                             <em>Abstract</em>:<br />
                             Context: Microservices as a lightweight and
                             decentralized architectural style with fine-grained
@@ -144,7 +144,7 @@ const Publications = () => {
                             research in the areas of maintenance, evolution, and
                             technical debt should take our findings and the
                             reported industry sentiments into account.
-                        </div>
+                        </span>
                     </p>
 
                     <hr />
@@ -165,7 +165,7 @@ const Publications = () => {
                         |{" "}
                         <a href="https://arxiv.org/abs/2103.09783">Preprint</a>
                         <br />
-                        <div className="publications-abstracts">
+                        <span className="publications-abstracts">
                             <em>Abstract</em>:<br />
                             Background: With the rising popularity of Artificial
                             Intelligence (AI), there is a growing need to build
@@ -205,7 +205,7 @@ const Publications = () => {
                             Additionally, they can serve as a foundation for
                             future research to further our understanding of TD
                             in AI-based systems.
-                        </div>
+                        </span>
                     </p>
 
                     <hr />
@@ -225,7 +225,7 @@ const Publications = () => {
                         </a>{" "}
                         | <a href="http://arxiv.org/abs/2101.12703">Preprint</a>
                         <br />
-                        <div className="publications-abstracts">
+                        <span className="publications-abstracts">
                             <em>Abstract</em>:<br />
                             Technologies play an important role in the hiring
                             process for software professionals. Within this
@@ -257,7 +257,7 @@ const Publications = () => {
                             foundation for future research and raises awareness
                             for a potentially systemic trend that may broadly
                             affect the software industry.
-                        </div>
+                        </span>
                     </p>
                     <hr />
                 </section>
