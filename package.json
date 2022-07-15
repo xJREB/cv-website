@@ -1,7 +1,7 @@
 {
     "name": "jreb-cv",
     "description": "The CV website of Dr. Justus Bogner",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "license": "MIT",
     "scripts": {
         "build": "gatsby build",
@@ -11,16 +11,16 @@
         "deploy": "gatsby build && gh-pages -d public --repo git@github.com:xJREB/xjreb.github.io.git"
     },
     "dependencies": {
-        "gatsby": "^4.14.1",
-        "gatsby-plugin-image": "^2.14.1",
-        "gatsby-plugin-manifest": "^4.14.0",
-        "gatsby-plugin-sharp": "^4.14.1",
-        "gatsby-source-filesystem": "^4.14.0",
-        "gatsby-transformer-sharp": "^4.14.0",
+        "gatsby": "^4.18.2",
+        "gatsby-plugin-image": "^2.18.1",
+        "gatsby-plugin-manifest": "^4.18.0",
+        "gatsby-plugin-sharp": "^4.18.1",
+        "gatsby-source-filesystem": "^4.18.0",
+        "gatsby-transformer-sharp": "^4.18.0",
         "gh-pages": "^4.0.0",
-        "react": "^18.1.0",
-        "react-dom": "^18.1.0",
-        "react-icons": "^4.3.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-icons": "^4.4.0",
         "typeface-quicksand": "^1.1.13",
         "typeface-source-sans-pro": "^1.1.13"
     }
