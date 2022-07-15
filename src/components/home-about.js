@@ -14,11 +14,11 @@ const About = () => {
                 />
                 <p>
                     Hi! I'm Justus, a researcher in{" "}
-                    <i>empirical software engineering</i>. I also
-                    teach software engineering courses at the university and as
-                    a trainer for companies. Before and during my PhD, I was
-                    employed for more than 9 years as a software engineer in the
-                    industry, building mostly web- and service-based enterprise
+                    <i>empirical software engineering</i>. I also teach software
+                    engineering courses at the university and as a trainer for
+                    companies. Before and during my PhD, I was employed for more
+                    than 9 years as a software engineer in the industry,
+                    building mostly web- and service-based enterprise
                     applications.
                 </p>
                 <p>
@@ -35,12 +35,15 @@ const About = () => {
                     , I lead the division "Software Engineering for AI- &
                     Microservice-Based Systems" (SE4AI&MS). I regularly review
                     for journals, conferences, and workshops, such as IEEE TSE,
-                    PeerJ CS, Wiley SPE, ECSA, Euromicro SEAA, or XP. I am also
+                    PeerJ CS, IEEE Software, Wiley SPE, ECSA, Euromicro SEAA, or XP. I am also
                     a co-organizer of the{" "}
                     <a href="https://saml.disim.univaq.it/saml2022/">
                         SAML workshop
                     </a>
                     , which combines software architecture and machine learning.
+                    Lastly, I'm part of the student admission committee for the
+                    M.Sc. study programme "Software Engineering" in my
+                    department.
                 </p>
             </div>
         </div>
