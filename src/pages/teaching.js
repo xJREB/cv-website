@@ -24,6 +24,10 @@ const Teaching = () => {
 
                         <ul>
                             <li>
+                                2022 WS: Programmentwicklung II (PE II), B.Sc.
+                                lecture
+                            </li>
+                            <li>
                                 2022 SS: Software Engineering for AI-based
                                 Systems, M.Sc. lecture
                             </li>
