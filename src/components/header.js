@@ -1,6 +1,6 @@
 import { Link } from "gatsby";
 import React from "react";
-import { FaChalkboardTeacher, FaHome } from "react-icons/fa";
+import { FaChalkboardTeacher, FaHome, FaUniversity } from "react-icons/fa";
 import { MdLibraryBooks, MdWork } from "react-icons/md";
 
 const Header = () => {
@@ -24,6 +24,10 @@ const Header = () => {
                 <Link to="/teaching">
                     <FaChalkboardTeacher></FaChalkboardTeacher>
                     Teaching
+                </Link>
+                <Link to="/service">
+                    <FaUniversity></FaUniversity>
+                    Service
                 </Link>
             </div>
         </nav>

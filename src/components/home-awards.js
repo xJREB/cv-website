@@ -8,7 +8,14 @@ const Awards = () => {
                 <FaAward></FaAward> Awards
             </h2>
             <div>
-                <p>My research has won the following awards:</p>
+                <p>I have won the following awards:</p>
+
+                <p>
+                    <strong>Best Reviewer Award</strong>
+                    <br />
+                    At the European Conference on Software Architecture (ECSA),
+                    2022
+                </p>
 
                 <p>
                     <strong>infos Dissertation Award</strong>

@@ -11,16 +11,16 @@
         "deploy": "gatsby build && gh-pages -d public --repo git@github.com:xJREB/xjreb.github.io.git"
     },
     "dependencies": {
-        "gatsby": "^4.18.2",
-        "gatsby-plugin-image": "^2.18.1",
-        "gatsby-plugin-manifest": "^4.18.0",
-        "gatsby-plugin-sharp": "^4.18.1",
-        "gatsby-source-filesystem": "^4.18.0",
-        "gatsby-transformer-sharp": "^4.18.0",
+        "gatsby": "^4.24.7",
+        "gatsby-plugin-image": "^2.24.0",
+        "gatsby-plugin-manifest": "^4.24.0",
+        "gatsby-plugin-sharp": "^4.24.0",
+        "gatsby-source-filesystem": "^4.24.0",
+        "gatsby-transformer-sharp": "^4.24.0",
         "gh-pages": "^4.0.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
-        "react-icons": "^4.4.0",
+        "react-icons": "^4.6.0",
         "typeface-quicksand": "^1.1.13",
         "typeface-source-sans-pro": "^1.1.13"
     }
