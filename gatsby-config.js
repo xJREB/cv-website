@@ -14,6 +14,7 @@ module.exports = {
                 "https://scholar.google.com/citations?user=m_ecDXgAAAAJ&hl=en",
         },
         icon: "src/images/gatsby-icon.png",
+        siteUrl: "https://xjreb.github.io",
     },
     plugins: [
         {

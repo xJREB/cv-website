@@ -37,3 +37,12 @@ const Home = () => {
 };
 
 export default Home;
+
+export const Head = () => (
+    <>
+        <meta
+            name="google-site-verification"
+            content="Z5awUoZA4VyZVQddqZ4j0rW_uitttNkElEFSZ9qYaNk"
+        />
+    </>
+);

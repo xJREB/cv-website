@@ -1,7 +1,7 @@
 {
     "name": "jreb-cv",
     "description": "The CV website of Dr. Justus Bogner",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "license": "MIT",
     "scripts": {
         "build": "gatsby build",
