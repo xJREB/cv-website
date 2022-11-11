@@ -17,6 +17,15 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2023 2nd International Conference on AI
+                                Engineering (CAIN)
+                            </li>
+                            <li>
+                                2023 49th Euromicro Conference on Software
+                                Engineering and Advanced Applications (SEAA),
+                                Data and AI Driven Engineering (DAIDE) track
+                            </li>
+                            <li>
                                 2023 20th International Conference on Software
                                 Architecture (ICSA), NEMI track
                             </li>
