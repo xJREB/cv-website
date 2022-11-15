@@ -24,7 +24,7 @@ const Research = () => {
                     maintainability, evolvability, and technical debt. Moreover,
                     I mainly study two types of systems described below. For
                     more details, please refer to my{" "}
-                    <Link to="/publications">publications</Link>.
+                    <Link to="/publications/">publications</Link>.
                 </p>
 
                 <div>

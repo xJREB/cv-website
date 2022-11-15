@@ -13,19 +13,19 @@ const Header = () => {
                 </Link>
             </div>
             <div className="nav-link-container">
-                <Link to="/cv">
+                <Link to="/cv/">
                     <MdWork></MdWork>
                     CV
                 </Link>
-                <Link to="/publications">
+                <Link to="/publications/">
                     <MdLibraryBooks></MdLibraryBooks>
                     Publications
                 </Link>
-                <Link to="/teaching">
+                <Link to="/teaching/">
                     <FaChalkboardTeacher></FaChalkboardTeacher>
                     Teaching
                 </Link>
-                <Link to="/service">
+                <Link to="/service/">
                     <FaUniversity></FaUniversity>
                     Service
                 </Link>

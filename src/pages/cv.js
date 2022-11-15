@@ -143,7 +143,7 @@ const CV = () => {
                             Stuttgart, Germany
                             <br />
                             <Link to="/#research">Research</Link> and{" "}
-                            <Link to="/teaching">teaching</Link> in the broader
+                            <Link to="/teaching/">teaching</Link> in the broader
                             area of software engineering
                         </p>
 
