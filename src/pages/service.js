@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2023 10th European Conference On
+                                Service-Oriented And Cloud Computing (ESOCC)
+                            </li>
+                            <li>
                                 2023 2nd International Conference on AI
                                 Engineering (CAIN)
                             </li>
@@ -146,16 +150,20 @@ const Service = () => {
                         <h3>University Department Services</h3>
                         <ul>
                             <li>
+                                2022 winter: external examiner for an M.Sc.
+                                thesis at Dublin City University, Ireland,
+                                invited by Prof. Dr. Paul M. Clarke
+                            </li>
+                            <li>
                                 2021 winter - today: member of the student
                                 admission committee for the study programme
                                 M.Sc. Software Engineering at the University of
                                 Stuttgart
                             </li>
                             <li>
-                                2021 summer: participation in two M.Sc. defense
-                                committees at the University of Porto for João
-                                Pedro Bandeira Fidalgo and Duarte Oliveira,
-                                invited by Prof. Dr. Filipe Correia
+                                2021 summer: external member of two M.Sc.
+                                defense committees at the University of Porto,
+                                Portugal, invited by Prof. Dr. Filipe Correia
                             </li>
                             <li>
                                 2021 summer - today: organizational role in the{" "}

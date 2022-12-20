@@ -3,6 +3,7 @@ import React from "react";
 import {
     FaGithub,
     FaMailBulk,
+    FaMastodon,
     FaResearchgate,
     FaTwitter,
 } from "react-icons/fa";
@@ -18,6 +19,7 @@ const Footer = () => {
                         author
                         social {
                             twitter
+                            mastodon
                             github
                             email
                             researchgate
@@ -29,7 +31,7 @@ const Footer = () => {
         `
     );
     const config = site.siteMetadata;
-    const { twitter, github, email, researchgate, googleScholar } =
+    const { twitter, mastodon, github, email, researchgate, googleScholar } =
         config.social;
     return (
         <div>
@@ -40,6 +42,9 @@ const Footer = () => {
                 <p>You can reach or follow me via the following ways:</p>
                 <MdEmail></MdEmail> Email:{" "}
                 <a href={`mailto:${email}`}>{email}</a>
+                <br />
+                <FaMastodon></FaMastodon> Mastodon:{" "}
+                <a href={mastodon}>{mastodon}</a>
                 <br />
                 <FaTwitter></FaTwitter> Twitter:{" "}
                 <a href={twitter}>

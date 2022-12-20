@@ -7,6 +7,7 @@ module.exports = {
         author: "Justus Bogner",
         social: {
             twitter: "https://twitter.com/JREB1990",
+            mastodon: "https://mastodon.acm.org/@JREB1990",
             github: "https://github.com/xJREB",
             email: "justus.bogner@iste.uni-stuttgart.de",
             researchgate: "https://www.researchgate.net/profile/Justus-Bogner",
