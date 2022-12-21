@@ -10,8 +10,8 @@ const Service = () => {
                         <h1>Service</h1>
                         <p>
                             I am an active member of the SE research community
-                            and support my university department in several
-                            areas.
+                            and support my and other university departments in
+                            several areas.
                         </p>
 
                         <h3>Program Committee Activities</h3>
