@@ -44,7 +44,9 @@ const Footer = () => {
                 <a href={`mailto:${email}`}>{email}</a>
                 <br />
                 <FaMastodon></FaMastodon> Mastodon:{" "}
-                <a href={mastodon} rel="me">{mastodon}</a>
+                <a href={mastodon} rel="me">
+                    {mastodon.substring(mastodon.indexOf("//") + 2)}
+                </a>
                 <br />
                 <FaTwitter></FaTwitter> Twitter:{" "}
                 <a href={twitter}>
