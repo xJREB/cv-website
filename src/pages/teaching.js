@@ -24,6 +24,10 @@ const Teaching = () => {
 
                         <ul>
                             <li>
+                                2023 summer: Software Engineering for AI-based
+                                Systems, M.Sc. lecture
+                            </li>
+                            <li>
                                 2022 winter: Program Development II (PE II),
                                 B.Sc. lecture
                             </li>
