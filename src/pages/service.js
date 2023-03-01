@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2023 5th International Conference on
+                                Microservices (Microservices)
+                            </li>
+                            <li>
                                 2023 10th European Conference On
                                 Service-Oriented And Cloud Computing (ESOCC)
                             </li>
@@ -90,11 +94,6 @@ const Service = () => {
                                 Software Engineering and Measurement (ESEM 2020)
                             </li>
                             <li>
-                                International Workshop on Artificial
-                                Intelligence and Requirements Engineering (AIRE
-                                2020)
-                            </li>
-                            <li>
                                 International Conference on Product-Focused
                                 Software Process Improvement (PROFES 2018 and
                                 PROFES 2019)
@@ -129,6 +128,10 @@ const Service = () => {
                             <li>IEEE Software</li>
                             <li>Software: Practice and Experience, Wiley</li>
                             <li>Software: Evolution and Process, Wiley</li>
+                            <li>
+                                Artificial Intelligence Review (AIRE), Springer
+                            </li>
+                            <li>Journal of Big Data (JBD), Springer</li>
                             <li>PeerJ Computer Science</li>
                             <li>IET Software</li>
                             <li>German Research Foundation (DFG)</li>
