@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2023 17th European Conference on Software
+                                Architecture (ECSA), Research track
+                            </li>
+                            <li>
                                 2023 5th International Conference on
                                 Microservices (Microservices)
                             </li>
@@ -38,50 +42,41 @@ const Service = () => {
                                 Architecture (ICSA), NEMI track
                             </li>
                             <li>
-                                {" "}
                                 2022 16th European Conference on Software
                                 Architecture (ECSA), Research track
                             </li>
                             <li>
-                                {" "}
                                 2022 3rd International Workshop on Agility with
                                 Microservices Programming (AMP)
                             </li>
                             <li>
-                                {" "}
                                 2022 48th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
                                 Cloud Native And Dev Ops (CNADO) track
                             </li>
                             <li>
-                                {" "}
                                 2021 15th European Conference on Software
                                 Architecture (ECSA), Tools & Demos track
                             </li>
                             <li>
-                                {" "}
                                 2021 2nd International Workshop on Agility with
                                 Microservices Programming (AMP)
                             </li>
                             <li>
-                                {" "}
                                 2021 47th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
                                 Cloud Native And Dev Ops (CNADO) track
                             </li>
                             <li>
-                                {" "}
                                 2020 1st International Workshop on Agility with
                                 Microservices Programming (AMP)
                             </li>
                             <li>
-                                {" "}
                                 2020 46th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
                                 Cloud Native And Dev Ops (CNADO) track
                             </li>
                             <li>
-                                {" "}
                                 2020 12th Central-European Workshop on Services
                                 and their Composition (ZEUS)
                             </li>
