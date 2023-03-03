@@ -13,6 +13,7 @@ module.exports = {
             researchgate: "https://www.researchgate.net/profile/Justus-Bogner",
             googleScholar:
                 "https://scholar.google.com/citations?user=m_ecDXgAAAAJ&hl=en",
+            linkedIn: "https://www.linkedin.com/in/justus-bogner",
         },
         icon: "src/images/gatsby-icon.png",
         siteUrl: "https://xjreb.github.io",
