@@ -17,6 +17,12 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2023 17th International Symposium on Empirical
+                                Software Engineering and Measurement (ESEM),
+                                Emerging Results, Vision and Reflection (ERVR)
+                                track
+                            </li>
+                            <li>
                                 2023 17th European Conference on Software
                                 Architecture (ECSA), Research track
                             </li>
@@ -29,13 +35,13 @@ const Service = () => {
                                 Service-Oriented And Cloud Computing (ESOCC)
                             </li>
                             <li>
-                                2023 2nd International Conference on AI
-                                Engineering (CAIN)
-                            </li>
-                            <li>
                                 2023 49th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
                                 Data and AI Driven Engineering (DAIDE) track
+                            </li>
+                            <li>
+                                2023 2nd International Conference on AI
+                                Engineering (CAIN)
                             </li>
                             <li>
                                 2023 20th International Conference on Software
