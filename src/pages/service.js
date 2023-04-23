@@ -141,6 +141,11 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 21st IEEE International Conference on
+                                Software Architecture (ICSA), publications
+                                co-chair
+                            </li>
+                            <li>
                                 2023 2nd International Conference on AI
                                 Engineering (CAIN), proceedings chair
                             </li>
