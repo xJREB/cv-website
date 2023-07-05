@@ -124,9 +124,13 @@ const Service = () => {
                                 Empirical Software Engineering (EMSE), Springer
                             </li>
                             <li>
-                                Transactions on Software Engineering (TSE), IEEE
+                                IEEE Transactions on Software Engineering (TSE)
                             </li>
                             <li>IEEE Software</li>
+                            <li>
+                                ACM Transactions on Software Engineering and
+                                Methodology (TOSEM)
+                            </li>
                             <li>Software: Practice and Experience, Wiley</li>
                             <li>Software: Evolution and Process, Wiley</li>
                             <li>
@@ -188,6 +192,21 @@ const Service = () => {
                                 </a>{" "}
                                 of the Empirical Software Engineering group at
                                 the University of Stuttgart
+                            </li>
+                        </ul>
+
+                        <h3>Invitations</h3>
+                        <ul>
+                            <li>
+                                2023/08: invited talk at SAP in their Innovation
+                                Information Session Series on RESTful API Design
+                            </li>
+                            <li>
+                                2023/07: participation in{" "}
+                                <a href="https://www.dagstuhl.de/23302">
+                                    Dagstuhl Seminar 23302
+                                </a>{" "}
+                                "Software Architecture and Machine Learning"
                             </li>
                         </ul>
                     </section>
