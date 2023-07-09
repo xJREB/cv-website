@@ -196,6 +196,18 @@ nav a svg {
     display: inline-block;
 }
 
+/* Blog */
+
+.blog-list-item {
+    padding: 15px;
+    border: 2px #9648ee solid;
+    border-radius: 5px;
+}
+
+.blog-list-item a {
+    font-weight: bold;
+}
+
 /* Footer */
 
 footer {

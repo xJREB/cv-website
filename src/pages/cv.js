@@ -1,5 +1,5 @@
 import { Link } from "gatsby";
-import * as React from "react";
+import React from "react";
 import { MdSchool, MdWork } from "react-icons/md";
 import Layout from "../components/layout";
 

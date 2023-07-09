@@ -27,6 +27,13 @@ module.exports = {
             },
         },
         {
+            resolve: "gatsby-source-filesystem",
+            options: {
+                name: "blog",
+                path: path.join(__dirname, "src", "blogposts"),
+            },
+        },
+        {
             resolve: "gatsby-plugin-manifest",
             options: {
                 name: "Justus Bogner",
@@ -51,5 +58,18 @@ module.exports = {
         "gatsby-transformer-sharp",
         "gatsby-plugin-sharp",
         "gatsby-plugin-sitemap",
+        {
+            resolve: "gatsby-transformer-remark",
+            options: {
+                plugins: [
+                    {
+                        resolve: "gatsby-remark-images",
+                        options: {
+                            maxWidth: 1200,
+                        },
+                    },
+                ],
+            },
+        },
     ],
 };

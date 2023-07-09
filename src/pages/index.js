@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import { GutterLeft, GutterRight } from "../components/gutter/gutter";
 import About from "../components/home-about";
 import Awards from "../components/home-awards";
