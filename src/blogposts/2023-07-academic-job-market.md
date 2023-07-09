@@ -5,7 +5,7 @@ title: "Stumbling Through the Academic Job Market: A Tale of 11 Application Proc
 ---
 In August 2023, I start as an Assistant Professor in Software Engineering at the Free University of Amsterdam (the [VU](https://vu.nl/en)).
 With this post, I want to reflect on my time on the academic job market, especially regarding typical application processes and participating in interviews.
-The primary target audience are early-career researcher, especially advanced PhD students and fresh postdocs.
+The primary target audience are early-career researchers, especially advanced PhD students and fresh postdocs.
 My goal is to share my concrete personal experience because I found very few reports online when I started applying.
 I hope that this will give future applicants at least some insights into this shrouded process, even though your actual mileage may vary considerably in the end.
 
@@ -78,7 +78,7 @@ The different places also requested between 0 and 4 letters of references as a m
 Despite having my basic set of documents ready, some applications took me surprisingly much effort, especially if they required me to fill in parts of my CV into some web form again...
 I also applied to 2 universities who share the same CS department.
 To my great surprise (and frustration), the requested documents and process couldn't have been more different.
-(Spoiler alert: one of the processes was considerable worse from my applicant perspective.)
+(Spoiler alert: one of the processes was considerably worse from my applicant perspective.)
 
 My applications were also processed very differently depending on the university.
 Between 1 and 3 stages needed to be passed until a potential final offer.
