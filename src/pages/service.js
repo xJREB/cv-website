@@ -139,6 +139,7 @@ const Service = () => {
                             <li>Journal of Big Data (JBD), Springer</li>
                             <li>PeerJ Computer Science</li>
                             <li>IET Software</li>
+                            <li>Journal of Systems and Software (JSS), Elsevier</li>
                             <li>German Research Foundation (DFG)</li>
                         </ul>
 
