@@ -25,26 +25,36 @@ const CV = () => {
                             Baden-Wuerttemberg. He did his PhD under the
                             supervision of{" "}
                             <a href="https://www.hhz.de/en/research/research-groups/digital-enterprise-architecture/#alfred-zimmermann">
-                                Prof. Dr. Alfred Zimmermann
+                                Prof. Alfred Zimmermann
                             </a>{" "}
                             and{" "}
                             <a href="https://www.iste.uni-stuttgart.de/institute/team/Wagner-00017/">
-                                Prof. Dr. Stefan Wagner
+                                Prof. Stefan Wagner
                             </a>
                             . During and after his studies as well as throughout
                             his PhD, he worked as a software engineer at Hewlett
                             Packard and later at DXC Technology for more than
-                            nine years. He is currently a postdoctoral research
-                            scientist in Prof. Wagner's Empirical Software
-                            Engineering Group, where he leads the division
-                            "Software Engineering for AI- and Microservice-Based
-                            Systems" (SE4AI&MS). His main research areas are
-                            empirical software engineering, software quality
-                            (especially evolvability and technical debt),
-                            software architecture, service- and
-                            microservice-based systems, and software engineering
-                            for artificial intelligence and machine learning
-                            systems.
+                            nine years. After his PhD, he was a postdoctoral
+                            research scientist in Prof. Wagner's Empirical
+                            Software Engineering Group for 3 years, where he led
+                            the division "Software Engineering for AI- and
+                            Microservice-Based Systems" (SE4AI&MS). Currently,
+                            he is an Assistant Professor (tenure track) in
+                            Software Engineering at the{" "}
+                            <a href="https://vu.nl/en">
+                                Vrije Universiteit Amsterdam
+                            </a>
+                            , Netherlands. The position is part of Prof.
+                            Patricia Lago's S2 group (
+                            <a href="https://s2group.cs.vu.nl/">
+                                Software and Sustainability
+                            </a>
+                            ). His main research areas are empirical software
+                            engineering, software quality (especially
+                            evolvability and technical debt), software
+                            architecture, service- and microservice-based
+                            systems, and software engineering for artificial
+                            intelligence and machine learning systems.
                         </p>
 
                         <h3>
@@ -136,9 +146,27 @@ const CV = () => {
                         </h3>
 
                         <p>
+                            <strong>Assistant Professor (tenure track)</strong>
+                            <br />
+                            From 2023-08 to today at the{" "}
+                            <a href="https://vu.nl/en">
+                                Vrije Universiteit Amsterdam
+                            </a>
+                            ,{" "}
+                            <a href="https://s2group.cs.vu.nl/">
+                                Software and Sustainability Research Group
+                            </a>
+                            , Amsterdam, Netherlands
+                            <br />
+                            <Link to="/#research">Research</Link> and{" "}
+                            <Link to="/teaching/">teaching</Link> in the broader
+                            area of software engineering
+                        </p>
+
+                        <p>
                             <strong>Research Scientist</strong>
                             <br />
-                            From 2020-02 to today at the University of
+                            From 2020-02 to 2023-07 at the University of
                             Stuttgart, Institute of Software Engineering,
                             Stuttgart, Germany
                             <br />
@@ -151,7 +179,7 @@ const CV = () => {
                             <strong>Software Engineer</strong>
                             <br />
                             From 2017-04 to 2020-01 at DXC Technology,
-                            Boeblingen, Germany
+                            Böblingen, Germany
                             <br />
                             Software engineer developing IT service monitoring
                             and reporting solutions, web- and service-based
@@ -164,7 +192,7 @@ const CV = () => {
                             <strong>Software Engineer</strong>
                             <br />
                             From 2015-10 to 2017-03 at Hewlett Packard
-                            Enterprise, Boeblingen, Germany
+                            Enterprise, Böblingen, Germany
                             <br />
                             Software engineer developing IT service monitoring
                             and reporting solutions, web- and service-based
@@ -177,7 +205,7 @@ const CV = () => {
                             <strong>Software Engineer</strong>
                             <br />
                             From 2013-10 to 2015-09 at Hewlett Packard,
-                            Boeblingen, Germany
+                            Böblingen, Germany
                             <br />
                             Software engineer developing IT service monitoring
                             and reporting solutions, web- and service-based
