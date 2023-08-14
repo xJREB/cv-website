@@ -1,7 +1,7 @@
 {
     "name": "jreb-cv",
     "description": "The CV website of Dr. Justus Bogner",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "license": "MIT",
     "scripts": {
         "build": "gatsby build",
@@ -21,7 +21,7 @@
         "gatsby-source-filesystem": "^5.11.0",
         "gatsby-transformer-remark": "^6.11.0",
         "gatsby-transformer-sharp": "^5.11.0",
-        "gh-pages": "^5.0.0",
+        "gh-pages": "^6.0.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-icons": "^4.10.1",

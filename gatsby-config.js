@@ -9,7 +9,7 @@ module.exports = {
             twitter: "https://twitter.com/JREB1990",
             mastodon: "https://mastodon.acm.org/@JREB1990",
             github: "https://github.com/xJREB",
-            email: "justus.bogner@iste.uni-stuttgart.de",
+            email: "j.bogner@vu.nl",
             researchgate: "https://www.researchgate.net/profile/Justus-Bogner",
             googleScholar:
                 "https://scholar.google.com/citations?user=m_ecDXgAAAAJ&hl=en",
