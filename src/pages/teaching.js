@@ -27,7 +27,7 @@ const Teaching = () => {
                         <strong>Vrije Universiteit Amsterdam, NL:</strong>
                         <ul>
                             <li>
-                                2023 winter: Service-Oriented Design, M.Sc.
+                                2023 fall: Service-Oriented Design, M.Sc.
                                 tutorial + 1 lecture slot
                             </li>
                         </ul>
