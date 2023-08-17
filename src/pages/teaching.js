@@ -14,14 +14,25 @@ const Teaching = () => {
                             engineering, both at the B.Sc. and M.Sc. level and
                             both in German and English. For two lectures (PE II
                             and SE4AI), I created the lecture content from
-                            scratch. I participated in several didactics
-                            seminars for higher education from the state of
+                            scratch. I attended several didactic seminars,
+                            completed the first module of the teaching
+                            certification for higher education from the state of
                             Baden-Württemberg and integrated concepts like
-                            constructive alignment into my teaching.
-                            Furthermore, I have supervised over 45 student
-                            projects, mostly B.Sc. and M.Sc. theses.
+                            constructive alignment or Bloom's taxonomy of
+                            learning objectives into my teaching. Furthermore, I
+                            have supervised over 50 student projects, mostly
+                            B.Sc. and M.Sc. theses.
                         </p>
 
+                        <strong>Vrije Universiteit Amsterdam, NL:</strong>
+                        <ul>
+                            <li>
+                                2023 winter: Service-Oriented Design, M.Sc.
+                                tutorial + 1 lecture slot
+                            </li>
+                        </ul>
+
+                        <strong>University of Stuttgart, DE:</strong>
                         <ul>
                             <li>
                                 2023 summer: Software Engineering for AI-based
