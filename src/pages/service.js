@@ -169,7 +169,7 @@ const Service = () => {
                                 invited by Prof. Dr. Paul M. Clarke
                             </li>
                             <li>
-                                2021 winter - today: member of the student
+                                2021 winter - 2023 summer: member of the student
                                 admission committee for the study programme
                                 M.Sc. Software Engineering at the University of
                                 Stuttgart
@@ -180,14 +180,14 @@ const Service = () => {
                                 Portugal, invited by Prof. Dr. Filipe Correia
                             </li>
                             <li>
-                                2021 summer - today: organizational role in the{" "}
+                                2021 summer - 2023 summer: organizational role in the{" "}
                                 <a href="https://www.aisa.uni-stuttgart.de">
                                     AI Software Academy (AISA)
                                 </a>{" "}
                                 at the University of Stuttgart
                             </li>
                             <li>
-                                2021 summer - today: chair of the{" "}
+                                2021 summer - 2023 summer: chair of the{" "}
                                 <a href="https://www.iste.uni-stuttgart.de/ese/colloquium">
                                     student colloquium
                                 </a>{" "}
