@@ -17,14 +17,18 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 31st International Conference on Software
+                                Analysis, Evolution and Reengineering (SANER),
+                                RENE track
+                            </li>
+                            <li>
                                 2024 3rd International Conference on AI
                                 Engineering (CAIN)
                             </li>
                             <li>
                                 2023 17th International Symposium on Empirical
                                 Software Engineering and Measurement (ESEM),
-                                Emerging Results, Vision and Reflection (ERVR)
-                                track
+                                ERVR track
                             </li>
                             <li>
                                 2023 17th European Conference on Software
@@ -41,7 +45,7 @@ const Service = () => {
                             <li>
                                 2023 49th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
-                                Data and AI Driven Engineering (DAIDE) track
+                                DAIDE track
                             </li>
                             <li>
                                 2023 2nd International Conference on AI
@@ -62,7 +66,7 @@ const Service = () => {
                             <li>
                                 2022 48th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
-                                Cloud Native And Dev Ops (CNADO) track
+                                CNADO track
                             </li>
                             <li>
                                 2021 15th European Conference on Software
@@ -75,7 +79,7 @@ const Service = () => {
                             <li>
                                 2021 47th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
-                                Cloud Native And Dev Ops (CNADO) track
+                                CNADO track
                             </li>
                             <li>
                                 2020 1st International Workshop on Agility with
@@ -84,7 +88,7 @@ const Service = () => {
                             <li>
                                 2020 46th Euromicro Conference on Software
                                 Engineering and Advanced Applications (SEAA),
-                                Cloud Native And Dev Ops (CNADO) track
+                                CNADO track
                             </li>
                             <li>
                                 2020 12th Central-European Workshop on Services
@@ -95,8 +99,8 @@ const Service = () => {
                         <h3>Sub-reviewer Activities</h3>
                         <ul>
                             <li>
-                                ACM/IEEE International Symposium on Empirical
-                                Software Engineering and Measurement (ESEM 2020)
+                                International Symposium on Empirical Software
+                                Engineering and Measurement (ESEM 2020)
                             </li>
                             <li>
                                 International Conference on Product-Focused
@@ -104,8 +108,8 @@ const Service = () => {
                                 PROFES 2019)
                             </li>
                             <li>
-                                IEEE International Conference on Software
-                                Maintenance and Evolution (ICSME 2019)
+                                International Conference on Software Maintenance
+                                and Evolution (ICSME 2019)
                             </li>
                             <li>
                                 International Workshop on Emerging Trends in
@@ -117,7 +121,7 @@ const Service = () => {
                                 Assessment in Software Engineering (EASE 2019)
                             </li>
                             <li>
-                                IEEE International Requirements Engineering
+                                International Requirements Engineering
                                 Conference (RE 2018)
                             </li>
                         </ul>
@@ -152,9 +156,8 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
-                                2024 21st IEEE International Conference on
-                                Software Architecture (ICSA), publications
-                                co-chair
+                                2024 21st International Conference on Software
+                                Architecture (ICSA), publications co-chair
                             </li>
                             <li>
                                 2023 2nd International Conference on AI
