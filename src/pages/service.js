@@ -17,13 +17,17 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 2nd International Workshop on Responsible
+                                AI Engineering (RAIE)
+                            </li>
+                            <li>
                                 2024 31st International Conference on Software
                                 Analysis, Evolution and Reengineering (SANER),
                                 RENE track
                             </li>
                             <li>
                                 2024 3rd International Conference on AI
-                                Engineering (CAIN)
+                                Engineering (CAIN), Main track
                             </li>
                             <li>
                                 2023 17th International Symposium on Empirical
@@ -40,7 +44,8 @@ const Service = () => {
                             </li>
                             <li>
                                 2023 10th European Conference On
-                                Service-Oriented And Cloud Computing (ESOCC)
+                                Service-Oriented And Cloud Computing (ESOCC),
+                                Main track
                             </li>
                             <li>
                                 2023 49th Euromicro Conference on Software
