@@ -42,7 +42,7 @@ const About = () => {
                     for journals, conferences, and workshops, such as IEEE TSE,
                     PeerJ CS, IEEE Software, Wiley SPE, ECSA, Euromicro SEAA, or
                     XP. Lastly, I am also a co-organizer of the{" "}
-                    <a href="https://saml.disim.univaq.it/saml2022/">
+                    <a href="https://sa-ml.github.io/saml2024/">
                         SAML workshop
                     </a>
                     , which combines software architecture and machine learning.
