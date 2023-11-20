@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 8th International Workshop on Green and
+                                Sustainable Software (GREENS)
+                            </li>
+                            <li>
                                 2024 2nd International Workshop on Responsible
                                 AI Engineering (RAIE)
                             </li>
@@ -27,7 +31,8 @@ const Service = () => {
                             </li>
                             <li>
                                 2024 3rd International Conference on AI
-                                Engineering (CAIN), Main track
+                                Engineering (CAIN), Main track and doctoral
+                                symposium
                             </li>
                             <li>
                                 2023 17th International Symposium on Empirical
@@ -158,8 +163,22 @@ const Service = () => {
                             <li>German Research Foundation (DFG)</li>
                         </ul>
 
+                        <h3>Editorial Board Activities</h3>
+                        <ul>
+                            <li>
+                                IEEE Software, Associate Editor for
+                                Journal-First Conference Tracks (J1C2) and
+                                Awards
+                            </li>
+                        </ul>
+
                         <h3>Organization Committee Activities</h3>
                         <ul>
+                            <li>
+                                2024 3rd International Workshop on Software
+                                Architecture and Machine Learning (SAML),
+                                co-chair
+                            </li>
                             <li>
                                 2024 3rd International Conference on AI
                                 Engineering (CAIN), doctoral symposium co-chair
