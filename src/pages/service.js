@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 18th European Conference on Software
+                                Architecture (ECSA), Research track
+                            </li>
+                            <li>
                                 2024 8th International Workshop on Green and
                                 Sustainable Software (GREENS)
                             </li>
