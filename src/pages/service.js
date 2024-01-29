@@ -17,10 +17,15 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
-                                2024 17th International Conference on the Quality of
-                                Information and Communications Technology
-                                (QUATIC), Quality Aspects of Services and Cloud
-                                Computing track
+                                2024 18th International Symposium on Empirical
+                                Software Engineering and Measurement (ESEM),
+                                Technical track
+                            </li>
+                            <li>
+                                2024 17th International Conference on the
+                                Quality of Information and Communications
+                                Technology (QUATIC), Quality Aspects of Services
+                                and Cloud Computing track
                             </li>
                             <li>
                                 2024 18th European Conference on Software
