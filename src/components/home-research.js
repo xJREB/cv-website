@@ -20,10 +20,10 @@ const Research = () => {
                     to support software professionals. While I conducted studies
                     in other areas, my two main SE knowledge areas are{" "}
                     <strong>software architecture</strong> and{" "}
-                    <strong>software quality</strong>, especially
-                    maintainability, evolvability, and technical debt. Moreover,
-                    I mainly study two types of systems described below. For
-                    more details, please refer to my{" "}
+                    <strong>software quality</strong>, especially evolvability,
+                    technical debt, and sustainability. Moreover, I mainly study
+                    two types of systems described below. For more details,
+                    please refer to my{" "}
                     <Link to="/publications/">publications</Link>.
                 </p>
 
@@ -80,9 +80,10 @@ const Research = () => {
                         After my PhD, I also broadened my scope with an
                         additional research area: software engineering for
                         AI-based systems (SE4AI). Here, I am mostly interested
-                        in the development process, architecture, and quality
-                        assurance of systems with AI components, e.g., systems
-                        which include one or more machine learning models.
+                        in the architecture and quality assurance of systems
+                        with AI components, e.g., systems which include one or
+                        more machine learning models. Moreover, I study Green AI
+                        from a software engineering perspective.
                     </p>
                 </div>
             </div>

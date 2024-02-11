@@ -20,7 +20,7 @@ const Teaching = () => {
                             Baden-Württemberg and integrated concepts like
                             constructive alignment or Bloom's taxonomy of
                             learning objectives into my teaching. Furthermore, I
-                            have supervised over 50 student projects, mostly
+                            have supervised over 60 student projects, mostly
                             B.Sc. and M.Sc. theses.
                         </p>
 

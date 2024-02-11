@@ -213,12 +213,43 @@ const Service = () => {
                             </li>
                         </ul>
 
-                        <h3>University Department Services</h3>
+                        <h3>Departmental Service and External Invitations</h3>
                         <ul>
                             <li>
+                                2024/05: invited talk in the{" "}
+                                <a href="https://www.aisa.uni-stuttgart.de">
+                                    AI Software Academy (AISA)
+                                </a>{" "}
+                                colloquium at the University of Stuttgart
+                            </li>
+                            <li>
+                                <strong>2024/02 - today:</strong> member of the
+                                scientific advisory council (ARW) of the VU's
+                                Department of Computer Science
+                            </li>
+                            <li>
+                                <strong>2024/02 - today:</strong> scientific
+                                coordinator at the VU's{" "}
+                                <a href="https://digitalsustainabilitycenter.nl">
+                                    Digital Sustainability Center
+                                </a>{" "}
+                                (DiSC)
+                            </li>
+                            <li>
+                                2023/08: invited talk at SAP in their Innovation
+                                Information Session Series on RESTful API Design
+                            </li>
+                            <li>
+                                2023/07: participation in{" "}
+                                <a href="https://www.dagstuhl.de/23302">
+                                    Dagstuhl Seminar 23302
+                                </a>{" "}
+                                "Software Architecture and Machine Learning"
+                            </li>
+                            <li>
                                 2022 winter: external examiner for an M.Sc.
-                                thesis at Dublin City University, Ireland,
-                                invited by Prof. Dr. Paul M. Clarke
+                                thesis at Dublin City University, invited by
+                                Prof. Dr. Paul M. Clarke
                             </li>
                             <li>
                                 2021 winter - 2023 summer: member of the student
@@ -229,7 +260,7 @@ const Service = () => {
                             <li>
                                 2021 summer: external member of two M.Sc.
                                 defense committees at the University of Porto,
-                                Portugal, invited by Prof. Dr. Filipe Correia
+                                invited by Prof. Dr. Filipe Correia
                             </li>
                             <li>
                                 2021 summer - 2023 summer: organizational role
@@ -246,21 +277,6 @@ const Service = () => {
                                 </a>{" "}
                                 of the Empirical Software Engineering group at
                                 the University of Stuttgart
-                            </li>
-                        </ul>
-
-                        <h3>Invitations</h3>
-                        <ul>
-                            <li>
-                                2023/08: invited talk at SAP in their Innovation
-                                Information Session Series on RESTful API Design
-                            </li>
-                            <li>
-                                2023/07: participation in{" "}
-                                <a href="https://www.dagstuhl.de/23302">
-                                    Dagstuhl Seminar 23302
-                                </a>{" "}
-                                "Software Architecture and Machine Learning"
                             </li>
                         </ul>
                     </section>

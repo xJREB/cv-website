@@ -50,8 +50,8 @@ const CV = () => {
                                 Software and Sustainability
                             </a>
                             ). His main research areas are empirical software
-                            engineering, software quality (especially
-                            evolvability and technical debt), software
+                            engineering, software quality (e.g., evolvability,
+                            technical debt, sustainability, etc.), software
                             architecture, service- and microservice-based
                             systems, and software engineering for artificial
                             intelligence and machine learning systems.
