@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 21st International Conference on Software
+                                Architecture (ICSA), Artifact Evaluation track
+                            </li>
+                            <li>
                                 2024 18th International Symposium on Empirical
                                 Software Engineering and Measurement (ESEM),
                                 Technical track
