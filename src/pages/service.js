@@ -194,6 +194,10 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
+                                2024 18th European Conference on Software
+                                Architecture (ECSA), open science chair
+                            </li>
+                            <li>
                                 2024 3rd International Workshop on Software
                                 Architecture and Machine Learning (SAML),
                                 co-chair
