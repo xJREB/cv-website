@@ -11,6 +11,19 @@ const Awards = () => {
                 <p>I have won the following awards:</p>
 
                 <p>
+                    <strong>Distinguished Paper Award</strong>
+                    <br />
+                    At the International Conference on Software Engineering
+                    (ICSE), Software Engineering in Society (SEIS) track, 2024,
+                    for the paper:
+                    <br />
+                    <a href="https://arxiv.org/abs/2401.02268">
+                        "Beyond Self-Promotion: How Software Engineering
+                        Research Is Discussed on LinkedIn"
+                    </a>
+                </p>
+
+                <p>
                     <strong>Best Reviewer Award</strong>
                     <br />
                     At the European Conference on Software Architecture (ECSA),
@@ -42,7 +55,7 @@ const Awards = () => {
                 </p>
 
                 <p>
-                    <strong>IEEE TCSE Distinguished Paper Award</strong>
+                    <strong>Distinguished Paper Award</strong>
                     <br />
                     At the International Conference on Software Maintenance and
                     Evolution (ICSME), 2019, for the paper:
