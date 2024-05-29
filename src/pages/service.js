@@ -125,36 +125,6 @@ const Service = () => {
                             </li>
                         </ul>
 
-                        <h3>Sub-reviewer Activities</h3>
-                        <ul>
-                            <li>
-                                International Symposium on Empirical Software
-                                Engineering and Measurement (ESEM 2020)
-                            </li>
-                            <li>
-                                International Conference on Product-Focused
-                                Software Process Improvement (PROFES 2018 and
-                                PROFES 2019)
-                            </li>
-                            <li>
-                                International Conference on Software Maintenance
-                                and Evolution (ICSME 2019)
-                            </li>
-                            <li>
-                                International Workshop on Emerging Trends in
-                                Software Engineering for Blockchain (WETSEB
-                                2019)
-                            </li>
-                            <li>
-                                International Conference on Evaluation and
-                                Assessment in Software Engineering (EASE 2019)
-                            </li>
-                            <li>
-                                International Requirements Engineering
-                                Conference (RE 2018)
-                            </li>
-                        </ul>
-
                         <h3>Journal and Grant Reviewing Activities</h3>
                         <ul>
                             <li>
@@ -223,6 +193,27 @@ const Service = () => {
 
                         <h3>Departmental Service and External Invitations</h3>
                         <ul>
+                            <li>
+                                2024/07: invited talk at SAP in their Innovation
+                                Information Session Series on software
+                                architecture for AI-based systems
+                            </li>
+                            <li>
+                                2024/06: appeared on an episode of the
+                                <a href="https://disseminatepodcast.podcastpage.io">
+                                    Disseminate podcast
+                                </a>{" "}
+                                from Dr. Jack Waudby about science communication
+                                in CS/SE
+                            </li>
+                            <li>
+                                2024/05: invited talk in the
+                                <a href="https://www.dise-lab.nl">
+                                    DISE research group
+                                </a>{" "}
+                                at VU Amsterdam about principles of scientific
+                                writing
+                            </li>
                             <li>
                                 2024/05: invited talk in the{" "}
                                 <a href="https://www.aisa.uni-stuttgart.de">
