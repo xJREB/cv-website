@@ -199,7 +199,7 @@ const Service = () => {
                                 architecture for AI-based systems
                             </li>
                             <li>
-                                2024/06: appeared on an episode of the
+                                2024/06: appeared on an episode of the{" "}
                                 <a href="https://disseminatepodcast.podcastpage.io">
                                     Disseminate podcast
                                 </a>{" "}
@@ -207,7 +207,7 @@ const Service = () => {
                                 in CS/SE
                             </li>
                             <li>
-                                2024/05: invited talk in the
+                                2024/05: invited talk in the{" "}
                                 <a href="https://www.dise-lab.nl">
                                     DISE research group
                                 </a>{" "}
