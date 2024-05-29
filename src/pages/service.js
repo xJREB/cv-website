@@ -194,17 +194,17 @@ const Service = () => {
                         <h3>Departmental Service and External Invitations</h3>
                         <ul>
                             <li>
-                                2024/07: invited talk at SAP in their Innovation
-                                Information Session Series on software
-                                architecture for AI-based systems
+                                2024/07: invited talk at SAP on software
+                                architecture for AI-based systems in their
+                                Innovation Information Session series
                             </li>
                             <li>
-                                2024/06: appeared on an episode of the{" "}
+                                2024/06: appeared on an episode of Dr. Jack
+                                Waudby's{" "}
                                 <a href="https://disseminatepodcast.podcastpage.io">
                                     Disseminate podcast
                                 </a>{" "}
-                                from Dr. Jack Waudby about science communication
-                                in CS/SE
+                                to talk about science communication in CS / SE
                             </li>
                             <li>
                                 2024/05: invited talk in the{" "}
@@ -215,7 +215,8 @@ const Service = () => {
                                 writing
                             </li>
                             <li>
-                                2024/05: invited talk in the{" "}
+                                2024/05: invited talk on software architecture
+                                for AI-based systems in the{" "}
                                 <a href="https://www.aisa.uni-stuttgart.de">
                                     AI Software Academy (AISA)
                                 </a>{" "}
@@ -235,8 +236,9 @@ const Service = () => {
                                 (DiSC)
                             </li>
                             <li>
-                                2023/08: invited talk at SAP in their Innovation
-                                Information Session Series on RESTful API Design
+                                2023/08: invited talk at SAP on RESTful API
+                                design in their Innovation Information Session
+                                series
                             </li>
                             <li>
                                 2023/07: participation in{" "}
