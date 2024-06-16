@@ -14,14 +14,17 @@ const Teaching = () => {
                             engineering, both at the B.Sc. and M.Sc. level and
                             both in German and English. For two lectures (PE II
                             and SE4AI), I created the lecture content from
-                            scratch. I attended several didactic seminars,
-                            completed the first module of the teaching
-                            certification for higher education from the state of
-                            Baden-Württemberg and integrated concepts like
-                            constructive alignment or Bloom's taxonomy of
-                            learning objectives into my teaching. Furthermore, I
-                            have supervised over 60 student projects, mostly
-                            B.Sc. and M.Sc. theses.
+                            scratch. Furthermore, I have supervised over 60
+                            student projects, mostly B.Sc. and M.Sc. theses. For
+                            the teaching certification for higher education from
+                            the German state of Baden-Württemberg, I attended
+                            several didactic seminars, completed the first
+                            module, and integrated concepts like constructive
+                            alignment or Bloom's taxonomy of learning objectives
+                            into my teaching. My didactic competencies have been
+                            further extended and validated when I obtained the
+                            University Teaching Qualification (UTQ / BKO) of the
+                            Netherlands in April 2024.
                         </p>
 
                         <strong>Vrije Universiteit Amsterdam, NL:</strong>

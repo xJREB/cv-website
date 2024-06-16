@@ -191,7 +191,7 @@ const Service = () => {
                             </li>
                         </ul>
 
-                        <h3>Departmental Service and External Invitations</h3>
+                        <h3>Departmental Service and Invitations</h3>
                         <ul>
                             <li>
                                 2024/07: invited talk at SAP on software

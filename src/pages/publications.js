@@ -12,7 +12,7 @@ const Publications = () => {
                         <p>
                             I have (co-)authored over 60 peer-reviewed
                             publications in various journals, conferences, and
-                            workshops. These papers have accumulated over 1400
+                            workshops. These papers have accumulated over 1500
                             citations and won several{" "}
                             <Link to="/#awards">awards</Link>. In this section,
                             I highlight a few selected studies that I am
@@ -29,13 +29,29 @@ const Publications = () => {
 
                         <ul>
                             <li>
+                                H. Järvenpää, P. Lago,{" "}
+                                <strong>J. Bogner</strong>, G. Lewis, H.
+                                Muccini, and I. Ozkaya, "A Synthesis of Green
+                                Architectural Tactics for ML-Enabled Systems,"
+                                in Proceedings of the 46th International
+                                Conference on Software Engineering: Software
+                                Engineering in Society, Lisbon Portugal: ACM,
+                                Apr. 2024, pp. 130-141. doi:
+                                10.1145/3639475.3640111.
+                                <br />
+                                <a href="https://doi.org/10.1145/3639475.3640111">
+                                    Link
+                                </a>{" "}
+                                (open access)
+                            </li>
+                            <li>
                                 J. Castaño, S. Martínez-Fernández, X. Franch,
                                 and <strong>J. Bogner</strong>, "Exploring the
                                 Carbon Footprint of Hugging Face's ML Models: A
                                 Repository Mining Study," in 2023 ACM/IEEE
                                 International Symposium on Empirical Software
                                 Engineering and Measurement (ESEM), New Orleans,
-                                LA, USA: IEEE, Oct. 2023, pp. 1–12. doi:
+                                LA, USA: IEEE, Oct. 2023, pp. 1-12. doi:
                                 10.1109/ESEM56168.2023.10304801.
                                 <br />
                                 <a href="https://doi.org/10.1109/ESEM56168.2023.10304801">
@@ -51,9 +67,9 @@ const Publications = () => {
                                 <strong>J. Bogner</strong>, "Design Patterns for
                                 AI-based Systems: A Multivocal Literature Review
                                 and Pattern Repository," in 2023 IEEE/ACM 2nd
-                                International Conference on AI Engineering –
+                                International Conference on AI Engineering -
                                 Software Engineering for AI (CAIN), Melbourne,
-                                Australia: IEEE, May 2023, pp. 184–196. doi:
+                                Australia: IEEE, May 2023, pp. 184-196. doi:
                                 10.1109/CAIN58948.2023.00035.
                                 <br />
                                 <a href="https://doi.org/10.1109/CAIN58948.2023.00035">
@@ -70,7 +86,7 @@ const Publications = () => {
                                 "Software Engineering for AI-Based Systems: A
                                 Survey," ACM Transactions on Software
                                 Engineering and Methodology, vol. 31, no. 2, pp.
-                                1–59, Apr. 2022, doi: 10.1145/3487043.
+                                1-59, Apr. 2022, doi: 10.1145/3487043.
                                 <br />
                                 <a href="https://doi.org/10.1145/3487043">
                                     Link
@@ -86,7 +102,7 @@ const Publications = () => {
                                 Debt and Antipatterns in AI-Based Systems: A
                                 Systematic Mapping Study," in 2021 IEEE/ACM
                                 International Conference on Technical Debt
-                                (TechDebt), IEEE, May 2021, pp. 64–73. doi:
+                                (TechDebt), IEEE, May 2021, pp. 64-73. doi:
                                 10.1109/TechDebt52882.2021.00016.
                                 <br />
                                 <a href="https://doi.org/10.1109/TechDebt52882.2021.00016">
@@ -119,9 +135,9 @@ const Publications = () => {
                             <li>
                                 J. Fritzsch, <strong>J. Bogner</strong>, M. Haug
                                 et al., "Adopting microservices and DevOps in
-                                the cyber‐physical systems domain: A rapid
+                                the cyber-physical systems domain: A rapid
                                 review and case study," Software: Practice and
-                                Experience, vol. 53, no. 3, pp. 790–810, Nov.
+                                Experience, vol. 53, no. 3, pp. 790-810, Nov.
                                 2022, doi: 10.1002/spe.3169.
                                 <br />
                                 <a href="https://doi.org/10.1002/spe.3169">
@@ -136,7 +152,7 @@ const Publications = () => {
                                 Microservice Systems Using Patterns: An
                                 Empirical Study on Quality Trade-Offs," in 2022
                                 IEEE 19th International Conference on Software
-                                Architecture (ICSA), IEEE, Mar. 2022, pp. 69–79.
+                                Architecture (ICSA), IEEE, Mar. 2022, pp. 69-79.
                                 doi: 10.1109/ICSA53651.2022.00015.
                                 <br />
                                 <a href="https://doi.org/10.1109/ICSA53651.2022.00015">
@@ -167,6 +183,20 @@ const Publications = () => {
 
                         <ul>
                             <li>
+                                M. Wyrich and <strong>J. Bogner</strong>,
+                                "Beyond Self-Promotion: How Software Engineering
+                                Research Is Discussed on LinkedIn," in
+                                Proceedings of the 46th International Conference
+                                on Software Engineering: Software Engineering in
+                                Society, Lisbon Portugal: ACM, Apr. 2024, pp.
+                                85-95. doi: 10.1145/3639475.3640113.
+                                <br />
+                                <a href="https://doi.org/10.1145/3639475.3640113">
+                                    Link
+                                </a>{" "}
+                                (open access)
+                            </li>
+                            <li>
                                 M. Wyrich, <strong>J. Bogner</strong>, and S.
                                 Wagner, "40 Years of Designing Code
                                 Comprehension Experiments: A Systematic Mapping
@@ -186,7 +216,7 @@ const Publications = () => {
                                 <strong>J. Bogner</strong>, and S. Wagner,
                                 "Resist the Hype! Practical Recommendations to
                                 Cope With Résumé-Driven Development," IEEE
-                                Software, pp. 1–8, 2023, doi:
+                                Software, pp. 1-8, 2023, doi:
                                 10.1109/MS.2023.3277034.
                                 <br />
                                 <a href="https://doi.org/10.1109/MS.2023.3277034">
@@ -204,7 +234,7 @@ const Publications = () => {
                                 TypeScript Applications on GitHub," in 2022
                                 IEEE/ACM 19th International Conference on Mining
                                 Software Repositories (MSR), May 2022, pp.
-                                658–669. doi: 10.1145/3524842.3528454.
+                                658-669. doi: 10.1145/3524842.3528454.
                                 <br />
                                 <a href="https://doi.org/10.1145/3524842.3528454">
                                     Link

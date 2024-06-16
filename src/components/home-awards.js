@@ -11,6 +11,30 @@ const Awards = () => {
                 <p>I have won the following awards:</p>
 
                 <p>
+                    <strong>Distinguished Artifact Award</strong>
+                    <br />
+                    At the International Conference on Software Architecture
+                    (ICSA), 2024, for the paper:
+                    <br />
+                    <a href="https://arxiv.org/abs/2402.13696">
+                        "How Do Microservice API Patterns Impact
+                        Understandability? A Controlled Experiment"
+                    </a>
+                </p>
+
+                <p>
+                    <strong>Distinguished Artifact Award</strong>
+                    <br />
+                    At the International Conference on Software Architecture
+                    (ICSA), 2024, for the paper:
+                    <br />
+                    <a href="https://arxiv.org/abs/2402.13710">
+                        "RESTRuler: Towards Automatically Identifying Violations
+                        of RESTful Design Rules in Web APIs"
+                    </a>
+                </p>
+
+                <p>
                     <strong>Distinguished Paper Award</strong>
                     <br />
                     At the International Conference on Software Engineering
