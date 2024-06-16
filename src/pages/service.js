@@ -194,6 +194,19 @@ const Service = () => {
                         <h3>Departmental Service and Invitations</h3>
                         <ul>
                             <li>
+                                <strong>current (since 2024/02):</strong> member
+                                of the scientific advisory council (ARW) of the
+                                VU's Department of Computer Science
+                            </li>
+                            <li>
+                                <strong>current (since 2024/02):</strong>{" "}
+                                scientific coordinator at the VU's{" "}
+                                <a href="https://digitalsustainabilitycenter.nl">
+                                    Digital Sustainability Center
+                                </a>{" "}
+                                (DiSC)
+                            </li>
+                            <li>
                                 2024/07: invited talk at SAP on software
                                 architecture for AI-based systems in their
                                 Innovation Information Session series
@@ -221,19 +234,6 @@ const Service = () => {
                                     AI Software Academy (AISA)
                                 </a>{" "}
                                 colloquium at the University of Stuttgart
-                            </li>
-                            <li>
-                                <strong>2024/02 - today:</strong> member of the
-                                scientific advisory council (ARW) of the VU's
-                                Department of Computer Science
-                            </li>
-                            <li>
-                                <strong>2024/02 - today:</strong> scientific
-                                coordinator at the VU's{" "}
-                                <a href="https://digitalsustainabilitycenter.nl">
-                                    Digital Sustainability Center
-                                </a>{" "}
-                                (DiSC)
                             </li>
                             <li>
                                 2023/08: invited talk at SAP on RESTful API
