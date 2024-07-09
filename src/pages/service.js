@@ -212,9 +212,14 @@ const Service = () => {
                                 Innovation Information Session series
                             </li>
                             <li>
+                                2024/07: external examiner for an M.Sc. thesis
+                                at the University of Groningen, invited by Prof.
+                                Dr. Vasilios Andrikopoulos
+                            </li>
+                            <li>
                                 2024/06: appeared on an episode of Dr. Jack
                                 Waudby's{" "}
-                                <a href="https://disseminatepodcast.podcastpage.io">
+                                <a href="https://disseminatepodcast.podcastpage.io/episode/marvin-wyrich-justus-bogner-how-software-engineering-research-is-discussed-on-linkedin-56">
                                     Disseminate podcast
                                 </a>{" "}
                                 to talk about science communication in CS / SE
