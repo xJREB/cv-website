@@ -206,11 +206,11 @@ const Service = () => {
                                 </a>{" "}
                                 (DiSC)
                             </li>
-                            <li>
+                            {/* <li>
                                 2024/07: invited talk at SAP on software
                                 architecture for AI-based systems in their
                                 Innovation Information Session series
-                            </li>
+                            </li> */}
                             <li>
                                 2024/07: external examiner for an M.Sc. thesis
                                 at the University of Groningen, invited by Prof.

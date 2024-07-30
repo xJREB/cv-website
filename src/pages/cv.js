@@ -164,7 +164,7 @@ const CV = () => {
                         </p>
 
                         <p>
-                            <strong>Research Scientist</strong>
+                            <strong>Postdoctoral Research Scientist</strong>
                             <br />
                             From 2020-02 to 2023-07 at the University of
                             Stuttgart, Institute of Software Engineering,
