@@ -144,6 +144,7 @@ const Service = () => {
                                 Artificial Intelligence Review (AIRE), Springer
                             </li>
                             <li>Journal of Big Data (JBD), Springer</li>
+                            <li>Service-Oriented Computing and Applications (SOCA), Springer</li>
                             <li>PeerJ Computer Science</li>
                             <li>IET Software</li>
                             <li>
