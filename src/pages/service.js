@@ -17,6 +17,14 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2025 22nd International Conference on Software
+                                Architecture (ICSA), Research track
+                            </li>
+                            <li>
+                                2025 4th International Conference on AI
+                                Engineering (CAIN), Main track
+                            </li>
+                            <li>
                                 2024 21st International Conference on Software
                                 Architecture (ICSA), Artifact Evaluation track
                             </li>
@@ -144,7 +152,10 @@ const Service = () => {
                                 Artificial Intelligence Review (AIRE), Springer
                             </li>
                             <li>Journal of Big Data (JBD), Springer</li>
-                            <li>Service-Oriented Computing and Applications (SOCA), Springer</li>
+                            <li>
+                                Service-Oriented Computing and Applications
+                                (SOCA), Springer
+                            </li>
                             <li>PeerJ Computer Science</li>
                             <li>IET Software</li>
                             <li>
