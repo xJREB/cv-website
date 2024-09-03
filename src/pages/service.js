@@ -176,6 +176,10 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
+                                2025 11th International Conference on ICT for
+                                Sustainability (ICT4S), publications chair
+                            </li>
+                            <li>
                                 2024 18th European Conference on Software
                                 Architecture (ECSA), open science chair
                             </li>
