@@ -11,6 +11,27 @@ const Awards = () => {
                 <p>I have won the following awards:</p>
 
                 <p>
+                    <strong>Distinguished Reviewer Award</strong>
+                    <br />
+                    At the European Conference on Software Architecture (ECSA),
+                    2024
+                </p>
+
+                <p>
+                    <strong>
+                        Honorable Mention for Best Paper Award (Runner-Up)
+                    </strong>
+                    <br />
+                    At the European Conference on Software Architecture (ECSA),
+                    2024, for the paper:
+                    <br />
+                    <a href="https://arxiv.org/abs/2406.19847">
+                        "An Analysis of MLOps Architectures: A Systematic
+                        Mapping Study"
+                    </a>
+                </p>
+
+                <p>
                     <strong>Distinguished Artifact Award</strong>
                     <br />
                     At the International Conference on Software Architecture
