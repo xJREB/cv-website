@@ -23,11 +23,26 @@ const Publications = () => {
                             </a>
                             .
                         </p>
-
                         <hr />
                         <h3>Software Engineering for AI (SE4AI)</h3>
-
                         <ul>
+                            <li>
+                                F. Amou Najafabadi, <strong>J. Bogner</strong>,
+                                I. Gerostathopoulos, and P. Lago, "An Analysis
+                                of MLOps Architectures: A Systematic Mapping
+                                Study," in European Conference on Software
+                                Architecture (ECSA), Springer Nature
+                                Switzerland, 2024, pp. 69-85. doi:
+                                10.1007/978-3-031-70797-1_5.
+                                <br />
+                                <a href="https://doi.org/10.1007/978-3-031-70797-1_5">
+                                    Link
+                                </a>{" "}
+                                |{" "}
+                                <a href="https://arxiv.org/abs/2406.19847">
+                                    Preprint
+                                </a>
+                            </li>
                             <li>
                                 H. Järvenpää, P. Lago,{" "}
                                 <strong>J. Bogner</strong>, G. Lewis, H.
@@ -43,6 +58,23 @@ const Publications = () => {
                                     Link
                                 </a>{" "}
                                 (open access)
+                            </li>
+                            <li>
+                                J. Castaño, M.-F. Silverio, X. Franch, and{" "}
+                                <strong>J. Bogner</strong>, "Analyzing the
+                                Evolution and Maintenance of ML Models on
+                                Hugging Face," in Proceedings of the 21st
+                                International Conference on Mining Software
+                                Repositories, Lisbon Portugal: ACM, Apr. 2024,
+                                pp. 607-618. doi: 10.1145/3643991.3644898.
+                                <br />
+                                <a href="https://doi.org/10.1145/3643991.3644898">
+                                    Link
+                                </a>{" "}
+                                |{" "}
+                                <a href="https://arxiv.org/abs/2311.13380">
+                                    Preprint
+                                </a>
                             </li>
                             <li>
                                 J. Castaño, S. Martínez-Fernández, X. Franch,
@@ -114,11 +146,44 @@ const Publications = () => {
                                 </a>
                             </li>
                         </ul>
-
                         <hr />
                         <h3>Microservices and Web APIs</h3>
-
                         <ul>
+                            <li>
+                                <strong>J. Bogner</strong>, S. Kotstein, D.
+                                Abajirov, T. Ernst, and M. Merkel, "RESTRuler:
+                                Towards Automatically Identifying Violations of
+                                RESTful Design Rules in Web APIs," in 2024 IEEE
+                                21st International Conference on Software
+                                Architecture (ICSA), Hyderabad, India: IEEE,
+                                Jun. 2024, pp. 123-134. doi:
+                                10.1109/ICSA59870.2024.00020.
+                                <br />
+                                <a href="https://doi.org/10.1109/ICSA59870.2024.00020">
+                                    Link
+                                </a>{" "}
+                                |{" "}
+                                <a href="https://arxiv.org/abs/2402.13710">
+                                    Preprint
+                                </a>
+                            </li>
+                            <li>
+                                <strong>J. Bogner</strong>, P. Wójcik, and O.
+                                Zimmermann, "How Do Microservice API Patterns
+                                Impact Understandability? A Controlled
+                                Experiment," in 2024 IEEE 21st International
+                                Conference on Software Architecture (ICSA),
+                                Hyderabad, India: IEEE, Jun. 2024, pp. 158-169.
+                                doi: 10.1109/ICSA59870.2024.00023.
+                                <br />
+                                <a href="https://doi.org/10.1109/ICSA59870.2024.00023">
+                                    Link
+                                </a>{" "}
+                                |{" "}
+                                <a href="https://arxiv.org/abs/2402.13696">
+                                    Preprint
+                                </a>
+                            </li>
                             <li>
                                 <strong>J. Bogner</strong>, S. Kotstein, and T.
                                 Pfaff, "Do RESTful API design rules have an
@@ -177,10 +242,8 @@ const Publications = () => {
                                 (open access)
                             </li>
                         </ul>
-
                         <hr />
                         <h3>Miscellaneous</h3>
-
                         <ul>
                             <li>
                                 M. Wyrich and <strong>J. Bogner</strong>,

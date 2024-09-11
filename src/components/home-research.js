@@ -80,10 +80,13 @@ const Research = () => {
                         After my PhD, I also broadened my scope with an
                         additional research area: software engineering for
                         AI-based systems (SE4AI). Here, I am mostly interested
-                        in the architecture and quality assurance of systems
-                        with AI components, e.g., systems which include one or
-                        more machine learning models. Moreover, I study Green AI
-                        from a software engineering perspective.
+                        in the architecture and quality attribute trade-offs of
+                        systems with AI components, e.g., systems which include
+                        one or more machine learning models. Next to, e.g.,
+                        maintainability or evolvability, one quality attribute
+                        I'm particularly interested in is energy efficiency,
+                        i.e., I study Green AI from a software engineering
+                        perspective.
                     </p>
                 </div>
             </div>
