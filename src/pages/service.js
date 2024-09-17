@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2025 3rd International Workshop on Responsible
+                                AI Engineering (RAIE)
+                            </li>
+                            <li>
                                 2025 22nd International Conference on Software
                                 Architecture (ICSA), Research track
                             </li>
