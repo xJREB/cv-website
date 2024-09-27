@@ -218,6 +218,11 @@ const Service = () => {
                         <h3>Departmental Service and Invitations</h3>
                         <ul>
                             <li>
+                                <strong>current (since 2024/09):</strong> member
+                                of the programme committee (OLC) for the M.Sc.
+                                Computer Science at VU Amsterdam
+                            </li>
+                            <li>
                                 <strong>current (since 2024/02):</strong> member
                                 of the scientific advisory council (ARW) of the
                                 VU's Department of Computer Science
