@@ -218,9 +218,12 @@ const Service = () => {
                         <h3>Departmental Service and Invitations</h3>
                         <ul>
                             <li>
-                                <strong>current (since 2024/09):</strong> member
-                                of the programme committee (OLC) for the M.Sc.
-                                Computer Science at VU Amsterdam
+                                <strong>current (since 2024/09):</strong> staff
+                                member of the programme committee (
+                                <a href="https://vu.nl/en/student/participation-in-decision-making/programme-committees">
+                                    OLC
+                                </a>
+                                ) for the M.Sc. Computer Science at VU Amsterdam
                             </li>
                             <li>
                                 <strong>current (since 2024/02):</strong> member

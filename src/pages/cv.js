@@ -112,7 +112,7 @@ const CV = () => {
                             <br />
                             Advisor: Prof. Dr. Martin Schmollinger
                             <br />
-                            Grade:{" "}
+                            Grade average:{" "}
                             <span style={{ fontStyle: "italic" }}>
                                 1.3
                             </span>{" "}
@@ -140,7 +140,7 @@ const CV = () => {
                             Advisors: Dr. Michael Steffens, Dr. Andreas
                             Wickenhäuser
                             <br />
-                            Grade:{" "}
+                            Grade average:{" "}
                             <span style={{ fontStyle: "italic" }}>
                                 1.6
                             </span>{" "}
