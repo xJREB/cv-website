@@ -166,6 +166,7 @@ const Service = () => {
                             </li>
                             <li>PeerJ Computer Science</li>
                             <li>IET Software</li>
+                            <li>SoftwareX, Elsevier</li>
                             <li>
                                 Journal of Systems and Software (JSS), Elsevier
                             </li>
