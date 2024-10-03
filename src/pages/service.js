@@ -17,6 +17,11 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2025 29th International Conference on Evaluation
+                                and Assessment in Software Engineering (EASE),
+                                Research track
+                            </li>
+                            <li>
                                 2025 9th International Workshop on Green and
                                 Sustainable Software (GREENS)
                             </li>
@@ -30,7 +35,8 @@ const Service = () => {
                             </li>
                             <li>
                                 2025 4th International Conference on AI
-                                Engineering (CAIN), Main track
+                                Engineering (CAIN), Research track and Doctoral
+                                Symposium
                             </li>
                             <li>
                                 2024 21st International Conference on Software
@@ -66,8 +72,8 @@ const Service = () => {
                             </li>
                             <li>
                                 2024 3rd International Conference on AI
-                                Engineering (CAIN), Main track and doctoral
-                                symposium
+                                Engineering (CAIN), Research track and Doctoral
+                                Symposium
                             </li>
                             <li>
                                 2023 17th International Symposium on Empirical
