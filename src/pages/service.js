@@ -251,6 +251,36 @@ const Service = () => {
                                 Innovation Information Session series
                             </li> */}
                             <li>
+                                2024/11: invited talk about Green AI at the
+                                Amsterdam AI Meetup of{" "}
+                                <a href="https://community.mindstone.com/events/amsterdam_ai_meetup_november_2024">
+                                    Mindstone
+                                </a>
+                            </li>
+                            <li>
+                                2024/11: invited talk about Green AI from a
+                                software architecture perspective at the{" "}
+                                <a href="https://www.softwareimprovementgroup.com">
+                                    Software Improvement Group (SIG)
+                                </a>
+                            </li>
+                            <li>
+                                2024/11: invited talk about software
+                                architecture for AI-based systems in the Fall
+                                Days research school of the{" "}
+                                <a href="https://ipa.win.tue.nl/?event=fall-days-on-models-for-constructing-software">
+                                    Institute for Programming Research and
+                                    Algorithmics (IPA)
+                                </a>
+                            </li>
+                            <li>
+                                2024/10: invited talk about Green AI from a
+                                software architecture perspective at the{" "}
+                                <a href="https://www.meetup.com/sustainable-it-netherlands/events/303351453">
+                                    Sustainable IT Netherlands Meetup
+                                </a>
+                            </li>
+                            <li>
                                 2024/07: external examiner for an M.Sc. thesis
                                 at the University of Groningen, invited by Prof.
                                 Dr. Vasilios Andrikopoulos

@@ -49,12 +49,12 @@ const CV = () => {
                             <a href="https://s2group.cs.vu.nl/">
                                 Software and Sustainability
                             </a>
-                            ). His main research areas are empirical software
-                            engineering, software quality (e.g., evolvability,
-                            technical debt, sustainability, etc.), software
-                            architecture, service- and microservice-based
-                            systems, and software engineering for artificial
-                            intelligence and machine learning systems.
+                            ). His main research interests are empirical
+                            software engineering, software architecture,
+                            internal software quality (maintainability,
+                            evolvability, sustainability), AI-based and
+                            ML-enabled systems, and service- and
+                            microservice-based systems.
                         </p>
 
                         <h3>
