@@ -5,7 +5,6 @@ import {
     FaMailBulk,
     FaMastodon,
     FaResearchgate,
-    FaTwitter,
     FaLinkedin,
 } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
@@ -19,7 +18,6 @@ const Footer = () => {
                     siteMetadata {
                         author
                         social {
-                            twitter
                             mastodon
                             github
                             email
@@ -33,15 +31,7 @@ const Footer = () => {
         `
     );
     const config = site.siteMetadata;
-    const {
-        twitter,
-        mastodon,
-        github,
-        email,
-        researchgate,
-        googleScholar,
-        linkedIn,
-    } = config.social;
+    const { mastodon, github, email, researchgate, googleScholar, linkedIn } = config.social;
     return (
         <div>
             <h2>
@@ -55,11 +45,6 @@ const Footer = () => {
                 <FaMastodon></FaMastodon> Mastodon:{" "}
                 <a href={mastodon} rel="me">
                     {mastodon.substring(mastodon.indexOf("//") + 2)}
-                </a>
-                <br />
-                <FaTwitter></FaTwitter> Twitter:{" "}
-                <a href={twitter}>
-                    {twitter.substring(twitter.indexOf(".com/") + 5)}
                 </a>
                 <br />
                 <FaLinkedin></FaLinkedin> LinkedIn:{" "}
