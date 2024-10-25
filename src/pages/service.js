@@ -176,6 +176,10 @@ const Service = () => {
                             <li>
                                 Journal of Systems and Software (JSS), Elsevier
                             </li>
+                            <li>
+                                Information and Software Technology (IST),
+                                Elsevier
+                            </li>
                             <li>German Research Foundation (DFG)</li>
                         </ul>
 
