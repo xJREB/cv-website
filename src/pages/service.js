@@ -21,10 +21,10 @@ const Service = () => {
                                 and Assessment in Software Engineering (EASE),
                                 Research track
                             </li>
-                            <li>
+                            {/* <li>
                                 2025 9th International Workshop on Green and
                                 Sustainable Software (GREENS)
-                            </li>
+                            </li> */}
                             <li>
                                 2025 3rd International Workshop on Responsible
                                 AI Engineering (RAIE)
