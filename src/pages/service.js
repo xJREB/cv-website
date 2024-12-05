@@ -17,14 +17,14 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2026 48th International Conference on Software
+                                Engineering (ICSE), Research track
+                            </li>
+                            <li>
                                 2025 29th International Conference on Evaluation
                                 and Assessment in Software Engineering (EASE),
                                 Research track
                             </li>
-                            {/* <li>
-                                2025 9th International Workshop on Green and
-                                Sustainable Software (GREENS)
-                            </li> */}
                             <li>
                                 2025 3rd International Workshop on Responsible
                                 AI Engineering (RAIE)
@@ -249,17 +249,21 @@ const Service = () => {
                                 </a>{" "}
                                 (DiSC)
                             </li>
-                            {/* <li>
-                                2024/07: invited talk at SAP on software
-                                architecture for AI-based systems in their
-                                Innovation Information Session series
-                            </li> */}
                             <li>
                                 2024/11: invited talk about Green AI at the
                                 Amsterdam AI Meetup of{" "}
                                 <a href="https://community.mindstone.com/events/amsterdam_ai_meetup_november_2024">
                                     Mindstone
                                 </a>
+                            </li>
+                            <li>
+                                2024/11: appeared on an episode of Dr. Daniel
+                                Shea's{" "}
+                                <a href="https://newbooksnetwork.com/your-reader-wants-also-to-see-your-point">
+                                    Scholarly Communication
+                                </a>{" "}
+                                podcast to talk about my publications about
+                                RESTful API quality
                             </li>
                             <li>
                                 2024/11: invited talk about Green AI from a
@@ -293,9 +297,10 @@ const Service = () => {
                                 2024/06: appeared on an episode of Dr. Jack
                                 Waudby's{" "}
                                 <a href="https://disseminatepodcast.podcastpage.io/episode/marvin-wyrich-justus-bogner-how-software-engineering-research-is-discussed-on-linkedin-56">
-                                    Disseminate podcast
+                                    Disseminate
                                 </a>{" "}
-                                to talk about science communication in CS / SE
+                                podcast to talk about science communication in
+                                CS / SE
                             </li>
                             <li>
                                 2024/05: invited talk in the{" "}

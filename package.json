@@ -1,7 +1,7 @@
 {
     "name": "jreb-cv",
     "description": "The CV website of Dr. Justus Bogner",
-    "version": "1.7.3",
+    "version": "1.7.4",
     "license": "MIT",
     "scripts": {
         "build": "gatsby build",
@@ -25,7 +25,7 @@
         "jreb-cv": "file:",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
-        "react-icons": "^5.3.0",
+        "react-icons": "^5.4.0",
         "typeface-quicksand": "^1.1.13",
         "typeface-source-sans-pro": "^1.1.13"
     }
