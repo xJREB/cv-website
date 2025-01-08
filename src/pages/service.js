@@ -31,7 +31,7 @@ const Service = () => {
                             </li>
                             <li>
                                 2025 22nd International Conference on Software
-                                Architecture (ICSA), Research track
+                                Architecture (ICSA), Research track and Artifact Evaluation
                             </li>
                             <li>
                                 2025 4th International Conference on AI
