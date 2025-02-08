@@ -31,7 +31,8 @@ const Service = () => {
                             </li>
                             <li>
                                 2025 22nd International Conference on Software
-                                Architecture (ICSA), Research track and Artifact Evaluation
+                                Architecture (ICSA), Research track and Artifact
+                                Evaluation
                             </li>
                             <li>
                                 2025 4th International Conference on AI
@@ -195,6 +196,11 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
+                                2025 4th International Workshop on Software
+                                Architecture and Machine Learning (SAML),
+                                co-chair
+                            </li>
+                            <li>
                                 2025 11th International Conference on ICT for
                                 Sustainability (ICT4S), publications chair
                             </li>
@@ -248,6 +254,13 @@ const Service = () => {
                                     Digital Sustainability Center
                                 </a>{" "}
                                 (DiSC)
+                            </li>
+                            <li>
+                                2025/02: participation in the CECAM-Lorentz
+                                Workshop{" "}
+                                <a href="https://www.cecam.org/workshop-details/greening-ai-with-software-engineering-1358">
+                                    "Greening AI with Software Engineering"
+                                </a>
                             </li>
                             <li>
                                 2024/11: invited talk about Green AI at the

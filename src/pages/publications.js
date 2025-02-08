@@ -10,9 +10,9 @@ const Publications = () => {
                     <section>
                         <h1>Publications</h1>
                         <p>
-                            I have (co-)authored over 60 peer-reviewed
+                            I have (co-)authored over 75 peer-reviewed
                             publications in various journals, conferences, and
-                            workshops. These papers have accumulated over 1800
+                            workshops. These papers have accumulated over 2000
                             citations and won several{" "}
                             <Link to="/#awards">awards</Link>. In this section,
                             I highlight a few selected studies that I am

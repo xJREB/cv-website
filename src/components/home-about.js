@@ -25,7 +25,7 @@ const About = () => {
                     Engineering at the Vrije Universiteit Amsterdam (
                     <a href="https://vu.nl/en">the VU</a>). My position is
                     located in Prof. Patricia Lago's S2 group (
-                    <a href="https://s2group.cs.vu.nl/">
+                    <a href="https://s2group.cs.vu.nl">
                         Software and Sustainability
                     </a>
                     ). I received my PhD in Computer Science (Dr. rer. nat.)
@@ -42,7 +42,7 @@ const About = () => {
                     for journals, conferences, and workshops, such as IEEE TSE,
                     EMSE, ACM TOSEM, IEEE Software, ECSA, CAIN, or ESEM. Lastly,
                     I am also a co-organizer of the{" "}
-                    <a href="https://sa-ml.github.io/saml2024/">
+                    <a href="https://sa-ml.github.io/saml2025">
                         SAML workshop
                     </a>
                     , which combines software architecture and machine learning.
