@@ -39,8 +39,8 @@ const CV = () => {
                             Software Engineering Group for 3 years, where he led
                             the division "Software Engineering for AI- and
                             Microservice-Based Systems" (SE4AI&MS). Currently,
-                            he is an Assistant Professor (tenure track) in
-                            Software Engineering at the{" "}
+                            he is a tenured Assistant Professor in Software
+                            Engineering at the{" "}
                             <a href="https://vu.nl/en">
                                 Vrije Universiteit Amsterdam
                             </a>
@@ -152,9 +152,27 @@ const CV = () => {
                         </h3>
 
                         <p>
+                            <strong>Assistant Professor (tenured)</strong>
+                            <br />
+                            From 2025-02 to today at the{" "}
+                            <a href="https://vu.nl/en">
+                                Vrije Universiteit Amsterdam
+                            </a>
+                            ,{" "}
+                            <a href="https://s2group.cs.vu.nl/">
+                                Software and Sustainability Research Group
+                            </a>
+                            , Amsterdam, Netherlands
+                            <br />
+                            <Link to="/#research">Research</Link> and{" "}
+                            <Link to="/teaching/">teaching</Link> in the broader
+                            area of software engineering
+                        </p>
+
+                        <p>
                             <strong>Assistant Professor (tenure track)</strong>
                             <br />
-                            From 2023-08 to today at the{" "}
+                            From 2023-08 to 2025-01 at the{" "}
                             <a href="https://vu.nl/en">
                                 Vrije Universiteit Amsterdam
                             </a>
