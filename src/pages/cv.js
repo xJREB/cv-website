@@ -181,10 +181,6 @@ const CV = () => {
                                 Software and Sustainability Research Group
                             </a>
                             , Amsterdam, Netherlands
-                            <br />
-                            <Link to="/#research">Research</Link> and{" "}
-                            <Link to="/teaching/">teaching</Link> in the broader
-                            area of software engineering
                         </p>
 
                         <p>
@@ -193,10 +189,6 @@ const CV = () => {
                             From 2020-02 to 2023-07 at the University of
                             Stuttgart, Institute of Software Engineering,
                             Stuttgart, Germany
-                            <br />
-                            <Link to="/#research">Research</Link> and{" "}
-                            <Link to="/teaching/">teaching</Link> in the broader
-                            area of software engineering
                         </p>
 
                         <p>

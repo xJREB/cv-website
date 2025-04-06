@@ -21,6 +21,10 @@ const Service = () => {
                                 Engineering (ICSE), Research track
                             </li>
                             <li>
+                                2025 19th European Conference on Software
+                                Architecture (ECSA), Research track
+                            </li>
+                            <li>
                                 2025 29th International Conference on Evaluation
                                 and Assessment in Software Engineering (EASE),
                                 Research track
@@ -195,6 +199,10 @@ const Service = () => {
 
                         <h3>Organization Committee Activities</h3>
                         <ul>
+                            <li>
+                                2026 5th International Conference on AI
+                                Engineering (CAIN), program committee co-chair
+                            </li>
                             <li>
                                 2025 4th International Workshop on Software
                                 Architecture and Machine Learning (SAML),
