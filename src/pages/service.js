@@ -21,6 +21,10 @@ const Service = () => {
                                 Engineering (ICSE), Research track
                             </li>
                             <li>
+                                2025 1st International Workshop on Software
+                                Architecture for Data-Intensive Systems (SADIS)
+                            </li>
+                            <li>
                                 2025 19th European Conference on Software
                                 Architecture (ECSA), Research track
                             </li>

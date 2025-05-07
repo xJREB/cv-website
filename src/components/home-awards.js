@@ -8,7 +8,21 @@ const Awards = () => {
                 <FaAward></FaAward> Awards
             </h2>
             <div>
-                <p>I have won the following awards:</p>
+                <p>My research has received the following distinctions:</p>
+
+                <p>
+                    <strong>
+                        Nomination for Distinguished Paper Award (not awarded)
+                    </strong>
+                    <br />
+                    At the International Conference on AI Engineering (CAIN),
+                    2025, for the paper:
+                    <br />
+                    <a href="https://arxiv.org/abs/2502.00429">
+                        "How Do Model Export Formats Impact the Development of
+                        ML-Enabled Systems? A Case Study on Model Integration"
+                    </a>
+                </p>
 
                 <p>
                     <strong>Distinguished Reviewer Award</strong>
