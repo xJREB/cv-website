@@ -204,6 +204,10 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
+                                2026 23rd International Conference on Software
+                                Architecture (ICSA), sponsorship co-chair
+                            </li>
+                            <li>
                                 2026 5th International Conference on AI
                                 Engineering (CAIN), program committee co-chair
                             </li>
