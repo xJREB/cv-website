@@ -272,6 +272,13 @@ const Service = () => {
                                 (DiSC)
                             </li>
                             <li>
+                                2025/06: invited seminar about software
+                                architecture for AI-based systems and Green AI
+                                at the Department of Information Engineering,
+                                University of Florence, invited by Dr. Roberto
+                                Verdecchia
+                            </li>
+                            <li>
                                 2025/02: participation in the CECAM-Lorentz
                                 Workshop{" "}
                                 <a href="https://www.cecam.org/workshop-details/greening-ai-with-software-engineering-1358">
