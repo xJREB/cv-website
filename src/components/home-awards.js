@@ -12,6 +12,21 @@ const Awards = () => {
 
                 <p>
                     <strong>
+                        Honorable Mention for Best Paper Award (Runner-Up)
+                    </strong>
+                    <br />
+                    At the International Conference on ICT for Sustainability
+                    (ICT4S), 2025, for the paper:
+                    <br />
+                    <a href="https://arxiv.org/abs/2505.07317">
+                        "How Do Companies Manage the Environmental
+                        Sustainability of AI? An Interview Study About Green AI
+                        Efforts and Regulations"
+                    </a>
+                </p>
+
+                <p>
+                    <strong>
                         Nomination for Distinguished Paper Award (not awarded)
                     </strong>
                     <br />

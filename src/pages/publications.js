@@ -12,7 +12,7 @@ const Publications = () => {
                         <p>
                             I have (co-)authored over 75 peer-reviewed
                             publications in various journals, conferences, and
-                            workshops. These papers have accumulated over 2000
+                            workshops. These papers have accumulated over 2300
                             citations and won several{" "}
                             <Link to="/#awards">awards</Link>. In this section,
                             I highlight a few selected studies that I am
