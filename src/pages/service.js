@@ -17,8 +17,17 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2026 23rd International Conference on Software
+                                Architecture (ICSA), Research track
+                            </li>
+                            <li>
                                 2026 48th International Conference on Software
                                 Engineering (ICSE), Research track
+                            </li>
+                            <li>
+                                2026 23rd International Conference on Mining
+                                Software Repositories (MSR), Registered Reports
+                                track
                             </li>
                             <li>
                                 2025 1st International Workshop on Software
@@ -192,12 +201,19 @@ const Service = () => {
                             <li>German Research Foundation (DFG)</li>
                         </ul>
 
-                        <h3>Editorial Board Activities</h3>
+                        <h3>
+                            Editorial Board and Steering Committee Activities
+                        </h3>
                         <ul>
                             <li>
                                 IEEE Software, Associate Editor for
                                 Journal-First Conference Tracks (J1C2) and
                                 Awards
+                            </li>
+                            <li>
+                                International Conference on Software
+                                Architecture (ICSA), At-Large Member in the
+                                Steering Committee (2025/08 - 2027/07)
                             </li>
                         </ul>
 
