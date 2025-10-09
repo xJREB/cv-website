@@ -14,7 +14,7 @@ const Teaching = () => {
                             engineering, both at the B.Sc. and M.Sc. level and
                             both in German and English. For two lectures (PE II
                             and SE4AI), I created the lecture content from
-                            scratch. Furthermore, I have supervised over 60
+                            scratch. Furthermore, I have supervised over 70
                             student projects, mostly B.Sc. and M.Sc. theses. For
                             the teaching certification for higher education from
                             the German state of Baden-Württemberg, I attended
@@ -29,6 +29,7 @@ const Teaching = () => {
 
                         <strong>Vrije Universiteit Amsterdam, NL:</strong>
                         <ul>
+                            <li>2026 spring: Software Design, B.Sc. lecture</li>
                             <li>
                                 2025 fall: Service-Oriented Design, M.Sc.
                                 lecture

@@ -174,6 +174,7 @@ const Service = () => {
                                 IEEE Transactions on Software Engineering (TSE)
                             </li>
                             <li>IEEE Software</li>
+                            <li>IEEE Computer</li>
                             <li>
                                 ACM Transactions on Software Engineering and
                                 Methodology (TOSEM)
@@ -213,7 +214,11 @@ const Service = () => {
                             <li>
                                 International Conference on Software
                                 Architecture (ICSA), At-Large Member in the
-                                Steering Committee (2025/08 - 2027/07)
+                                Steering Committee (2025 - 2027)
+                            </li>
+                            <li>
+                                International Conference on AI Engineering
+                                (CAIN), Steering Committee Member (2025 - 2027)
                             </li>
                         </ul>
 
