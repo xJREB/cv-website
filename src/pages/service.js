@@ -17,17 +17,21 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
-                                2026 23rd International Conference on Software
-                                Architecture (ICSA), Research track
+                                2026 12th International Conference on ICT for
+                                Sustainability (ICT4S), Research track
                             </li>
                             <li>
-                                2026 48th International Conference on Software
-                                Engineering (ICSE), Research track
+                                2026 23rd International Conference on Software
+                                Architecture (ICSA), Research track
                             </li>
                             <li>
                                 2026 23rd International Conference on Mining
                                 Software Repositories (MSR), Registered Reports
                                 track
+                            </li>
+                            <li>
+                                2026 48th International Conference on Software
+                                Engineering (ICSE), Research track
                             </li>
                             <li>
                                 2025 1st International Workshop on Software
@@ -291,6 +295,13 @@ const Service = () => {
                                     Digital Sustainability Center
                                 </a>{" "}
                                 (DiSC)
+                            </li>
+                            <li>
+                                2025/11: invited seminar about software
+                                architecture for AI-based systems and Green AI
+                                at the AI Engineering Lab, Chalmers University
+                                of Technology / University of Gothenburg,
+                                invited by Prof. Dr. Jennifer Horkoff
                             </li>
                             <li>
                                 2025/06: invited seminar about software
