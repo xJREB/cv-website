@@ -229,6 +229,15 @@ const Service = () => {
                         <h3>Organization Committee Activities</h3>
                         <ul>
                             <li>
+                                2027 21st European Conference on Software
+                                Architecture (ECSA), program committee co-chair
+                            </li>
+                            <li>
+                                2026 20th International Symposium on Empirical
+                                Software Engineering and Measurement (ESEM),
+                                open science co-chair
+                            </li>
+                            <li>
                                 2026 23rd International Conference on Software
                                 Architecture (ICSA), sponsorship co-chair
                             </li>
