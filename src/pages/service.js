@@ -233,6 +233,10 @@ const Service = () => {
                                 Architecture (ECSA), program committee co-chair
                             </li>
                             <li>
+                                2026 International Software Architecture PhD
+                                School (ISAPS), co-organizer
+                            </li>
+                            <li>
                                 2026 20th International Symposium on Empirical
                                 Software Engineering and Measurement (ESEM),
                                 open science co-chair
