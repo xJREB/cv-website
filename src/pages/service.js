@@ -233,8 +233,17 @@ const Service = () => {
                                 Architecture (ECSA), program committee co-chair
                             </li>
                             <li>
+                                2027 24th International Conference on Software
+                                Architecture (ICSA), sustainability co-chair
+                            </li>
+                            <li>
                                 2026 International Software Architecture PhD
                                 School (ISAPS), co-organizer
+                            </li>
+                            <li>
+                                2026 5th International Workshop on Software
+                                Architecture and Machine Learning (SAML),
+                                co-chair
                             </li>
                             <li>
                                 2026 20th International Symposium on Empirical
