@@ -1,5 +1,4 @@
 import { graphql, Link, useStaticQuery } from "gatsby";
-import React from "react";
 import Hero from "./hero";
 
 const Landing = () => {

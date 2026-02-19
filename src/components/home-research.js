@@ -1,6 +1,5 @@
 import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
-import React from "react";
 import { FaSearch } from "react-icons/fa";
 
 const Research = () => {

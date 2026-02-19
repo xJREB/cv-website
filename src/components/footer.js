@@ -1,5 +1,4 @@
 import { graphql, useStaticQuery } from "gatsby";
-import React from "react";
 
 const Footer = () => {
     const { site } = useStaticQuery(
