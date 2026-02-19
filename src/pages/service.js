@@ -17,6 +17,10 @@ const Service = () => {
                         <h3>Program Committee Activities</h3>
                         <ul>
                             <li>
+                                2026 20th European Conference on Software
+                                Architecture (ECSA), Research track
+                            </li>
+                            <li>
                                 2026 12th International Conference on ICT for
                                 Sustainability (ICT4S), Research track
                             </li>
