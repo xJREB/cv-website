@@ -8,6 +8,12 @@ const Awards = () => {
             </h2>
             <div>
                 <p>My research has received the following distinctions:</p>
+                <p>
+                    <strong>Distinguished Reviewer Award</strong>
+                    <br />
+                    At the International Conference on Software Engineering
+                    (ICSE), 2026
+                </p>
 
                 <p>
                     <strong>

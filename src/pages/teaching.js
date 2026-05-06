@@ -13,7 +13,7 @@ const Teaching = () => {
                             engineering, both at the B.Sc. and M.Sc. level and
                             both in German and English. For two lectures (PE II
                             and SE4AI), I created the lecture content from
-                            scratch. Furthermore, I have supervised over 70
+                            scratch. Furthermore, I have supervised over 85
                             student projects, mostly B.Sc. and M.Sc. theses. For
                             the teaching certification for higher education from
                             the German state of Baden-Württemberg, I attended
@@ -28,17 +28,18 @@ const Teaching = () => {
 
                         <strong>Vrije Universiteit Amsterdam, NL:</strong>
                         <ul>
-                            <li>2026 spring: Software Design, B.Sc. lecture</li>
                             <li>
-                                2025 fall: Service-Oriented Design, M.Sc.
-                                lecture
+                                2026 fall: Service-Oriented Design, M.Sc. course
                             </li>
-                            <li>2025 spring: Software Design, B.Sc. lecture</li>
+                            <li>2026 spring: Software Design, B.Sc. course</li>
                             <li>
-                                2024 fall: Service-Oriented Design, M.Sc.
-                                lecture
+                                2025 fall: Service-Oriented Design, M.Sc. course
                             </li>
-                            <li>2024 spring: Software Design, B.Sc. lecture</li>
+                            <li>2025 spring: Software Design, B.Sc. course</li>
+                            <li>
+                                2024 fall: Service-Oriented Design, M.Sc. course
+                            </li>
+                            <li>2024 spring: Software Design, B.Sc. course</li>
                             <li>
                                 2023 fall: Service-Oriented Design, M.Sc.
                                 tutorial + 1 lecture slot
@@ -49,19 +50,19 @@ const Teaching = () => {
                         <ul>
                             <li>
                                 2023 summer: Software Engineering for AI-based
-                                Systems, M.Sc. lecture
+                                Systems, M.Sc. course
                             </li>
                             <li>
                                 2022 winter: Program Development II (PE II),
-                                B.Sc. lecture
+                                B.Sc. course
                             </li>
                             <li>
                                 2022 summer: Software Engineering for AI-based
-                                Systems, M.Sc. lecture
+                                Systems, M.Sc. course
                             </li>
                             <li>
                                 2021 winter: Program Development II (PE II),
-                                B.Sc. lecture
+                                B.Sc. course
                             </li>
                             <li>
                                 2021 summer: Software Engineering for AI-based
@@ -69,7 +70,7 @@ const Teaching = () => {
                             </li>
                             <li>
                                 2020 winter: Program Development II (PE II),
-                                B.Sc. lecture
+                                B.Sc. course
                             </li>
                             <li>
                                 2020 winter: Software Project (SoPra), B.Sc.

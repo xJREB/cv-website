@@ -9,9 +9,9 @@ const Publications = () => {
                     <section>
                         <h1>Publications</h1>
                         <p>
-                            I have (co-)authored over 75 peer-reviewed
+                            I have (co-)authored over 80 peer-reviewed
                             publications in various journals, conferences, and
-                            workshops. These papers have accumulated over 2700
+                            workshops. These papers have accumulated over 3,000
                             citations and won several{" "}
                             <Link to="/#awards">awards</Link>. In this section,
                             I highlight a few selected studies that I am
@@ -27,20 +27,16 @@ const Publications = () => {
                         <ul>
                             <li>
                                 F. Amou Najafabadi, <strong>J. Bogner</strong>,
-                                I. Gerostathopoulos, and P. Lago, "An Analysis
-                                of MLOps Architectures: A Systematic Mapping
-                                Study," in European Conference on Software
-                                Architecture (ECSA), Springer Nature
-                                Switzerland, 2024, pp. 69-85. doi:
-                                10.1007/978-3-031-70797-1_5.
+                                I. Gerostathopoulos, and P. Lago, "An
+                                architectural perspective on MLOps: Structures,
+                                processes, tools, and stakeholders," Information
+                                and Software Technology, p. 108029, Jan. 2026,
+                                doi: 10.1016/j.infsof.2026.108029.
                                 <br />
-                                <a href="https://doi.org/10.1007/978-3-031-70797-1_5">
+                                <a href="https://doi.org/10.1016/j.infsof.2026.108029">
                                     Link
                                 </a>{" "}
-                                |{" "}
-                                <a href="https://arxiv.org/abs/2406.19847">
-                                    Preprint
-                                </a>
+                                (open access)
                             </li>
                             <li>
                                 H. Järvenpää, P. Lago,{" "}
@@ -148,6 +144,55 @@ const Publications = () => {
                         <hr />
                         <h3>Microservices and Web APIs</h3>
                         <ul>
+                            <li>
+                                J. Fritzsch, <strong>J. Bogner</strong>, T.
+                                Haller, et al., S. "Developing a Framework for
+                                the Quality‐Driven Migration to Microservices: A
+                                Multi‐Method Design Science Study," Softw Pract
+                                Exp, Mar. 2026, doi: 10.1002/spe.70062.
+                                <br />
+                                <a href="https://doi.org/10.1002/spe.70062">
+                                    Link
+                                </a>{" "}
+                                (open access)
+                            </li>
+
+                            <li>
+                                X. Xiao, C. Gao, and <strong>J. Bogner</strong>,
+                                "On the Effectiveness of Microservices Tactics
+                                and Patterns to Reduce Energy Consumption: An
+                                Experimental Study on Trade-Offs," in 2025 IEEE
+                                22nd International Conference on Software
+                                Architecture (ICSA), Odense, Denmark: IEEE,
+                                2025. doi: 10.1109/ICSA65012.2025.00025.
+                                <br />
+                                <a href="https://doi.org/10.1109/ICSA65012.2025.00025">
+                                    Link
+                                </a>{" "}
+                                |{" "}
+                                <a href="https://arxiv.org/abs/2501.14402">
+                                    Preprint
+                                </a>
+                            </li>
+                            <li>
+                                Y. Zhao, T. De Matteis, and{" "}
+                                <strong>J. Bogner</strong>, "How Does
+                                Microservice Granularity Impact Energy
+                                Consumption and Performance? A Controlled
+                                Experiment," in 2025 IEEE 22nd International
+                                Conference on Software Architecture (ICSA),
+                                Odense, Denmark: IEEE, 2025. doi:
+                                10.1109/ICSA65012.2025.00018.
+                                <br />
+                                <a href="https://doi.org/10.1109/ICSA65012.2025.00018">
+                                    Link
+                                </a>{" "}
+                                |{" "}
+                                <a href="https://arxiv.org/abs/2502.00482">
+                                    Preprint
+                                </a>
+                            </li>
+
                             <li>
                                 <strong>J. Bogner</strong>, S. Kotstein, D.
                                 Abajirov, T. Ernst, and M. Merkel, "RESTRuler:
