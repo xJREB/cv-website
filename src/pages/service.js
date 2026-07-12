@@ -1,5 +1,149 @@
 import Layout from "../components/layout";
 
+const programCommitteeActivities = [
+    {
+        year: 2027,
+        items: [
+            "24th International Conference on Software Architecture (ICSA), Research track",
+        ],
+    },
+    {
+        year: 2026,
+        items: [
+            "20th International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical track",
+            "20th European Conference on Software Architecture (ECSA), Research track",
+            "12th International Conference on ICT for Sustainability (ICT4S), Research track",
+            "23rd International Conference on Software Architecture (ICSA), Research track",
+            "23rd International Conference on Mining Software Repositories (MSR), Registered Reports track",
+            "48th International Conference on Software Engineering (ICSE), Research track",
+        ],
+    },
+    {
+        year: 2025,
+        items: [
+            "1st International Workshop on Software Architecture for Data-Intensive Systems (SADIS)",
+            "19th European Conference on Software Architecture (ECSA), Research track",
+            "29th International Conference on Evaluation and Assessment in Software Engineering (EASE), Research track",
+            "3rd International Workshop on Responsible AI Engineering (RAIE)",
+            "22nd International Conference on Software Architecture (ICSA), Research track and Artifact Evaluation",
+            "4th International Conference on AI Engineering (CAIN), Research track and Doctoral Symposium",
+        ],
+    },
+    {
+        year: 2024,
+        items: [
+            "21st International Conference on Software Architecture (ICSA), Artifact Evaluation track",
+            "18th International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical track",
+            "17th International Conference on the Quality of Information and Communications Technology (QUATIC), Quality Aspects of Services and Cloud Computing track",
+            "18th European Conference on Software Architecture (ECSA), Research track",
+            "8th International Workshop on Green and Sustainable Software (GREENS)",
+            "2nd International Workshop on Responsible AI Engineering (RAIE)",
+            "31st International Conference on Software Analysis, Evolution and Reengineering (SANER), RENE track",
+            "3rd International Conference on AI Engineering (CAIN), Research track and Doctoral Symposium",
+        ],
+    },
+    {
+        year: 2023,
+        items: [
+            "17th International Symposium on Empirical Software Engineering and Measurement (ESEM), ERVR track",
+            "17th European Conference on Software Architecture (ECSA), Research track",
+            "5th International Conference on Microservices (Microservices)",
+            "10th European Conference On Service-Oriented And Cloud Computing (ESOCC), Main track",
+            "49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), DAIDE track",
+            "2nd International Conference on AI Engineering (CAIN)",
+            "20th International Conference on Software Architecture (ICSA), NEMI track",
+        ],
+    },
+    {
+        year: 2022,
+        items: [
+            "16th European Conference on Software Architecture (ECSA), Research track",
+            "3rd International Workshop on Agility with Microservices Programming (AMP)",
+            "48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO track",
+        ],
+    },
+    {
+        year: 2021,
+        items: [
+            "15th European Conference on Software Architecture (ECSA), Tools & Demos track",
+            "2nd International Workshop on Agility with Microservices Programming (AMP)",
+            "47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO track",
+        ],
+    },
+    {
+        year: 2020,
+        items: [
+            "1st International Workshop on Agility with Microservices Programming (AMP)",
+            "46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO track",
+            "12th Central-European Workshop on Services and their Composition (ZEUS)",
+        ],
+    },
+];
+
+const organizationCommitteeActivities = [
+    {
+        year: 2027,
+        items: [
+            "21st European Conference on Software Architecture (ECSA), program committee co-chair",
+            "6th International Workshop on Software Architecture and Machine Learning (SAML), co-chair",
+            "24th International Conference on Software Architecture (ICSA), sustainability co-chair",
+        ],
+    },
+    {
+        year: 2026,
+        items: [
+            "9th International Software Architecture PhD School (ISAPS), co-organizer",
+            "5th International Workshop on Software Architecture and Machine Learning (SAML), co-chair",
+            "20th International Symposium on Empirical Software Engineering and Measurement (ESEM), open science co-chair",
+            "23rd International Conference on Software Architecture (ICSA), sponsorship co-chair",
+            "5th International Conference on AI Engineering (CAIN), program committee co-chair",
+        ],
+    },
+    {
+        year: 2025,
+        items: [
+            "4th International Workshop on Software Architecture and Machine Learning (SAML), co-chair",
+            "11th International Conference on ICT for Sustainability (ICT4S), publications chair",
+        ],
+    },
+    {
+        year: 2024,
+        items: [
+            "18th European Conference on Software Architecture (ECSA), open science chair",
+            "3rd International Workshop on Software Architecture and Machine Learning (SAML), co-chair",
+            "3rd International Conference on AI Engineering (CAIN), doctoral symposium co-chair",
+            "21st International Conference on Software Architecture (ICSA), publications co-chair",
+        ],
+    },
+    {
+        year: 2023,
+        items: [
+            "2nd International Conference on AI Engineering (CAIN), proceedings chair",
+        ],
+    },
+    {
+        year: 2022,
+        items: [
+            "2nd International Workshop on Software Architecture and Machine Learning (SAML), co-chair",
+        ],
+    },
+];
+
+const YearAccordion = ({ groups, frequencyText }) => (
+    <>
+        {groups.map(({ year, items }, index) => (
+            <details key={year} open={index < 2}>
+                <summary>{year} <small>({frequencyText}: {items.length})</small></summary>
+                <ul>
+                    {items.map((item) => (
+                        <li key={item}>{item}</li>
+                    ))}
+                </ul>
+            </details>
+        ))}
+    </>
+);
+
 const Service = () => {
     return (
         <Layout pageTitle="Service">
@@ -14,172 +158,7 @@ const Service = () => {
                         </p>
 
                         <h3>Program Committee Activities</h3>
-                        <ul>
-                            <li>
-                                2027 24th International Conference on Software
-                                Architecture (ICSA), Research track
-                            </li>
-                            <li>
-                                2026 20th International Symposium on Empirical
-                                Software Engineering and Measurement (ESEM),
-                                Technical track
-                            </li>
-                            <li>
-                                2026 20th European Conference on Software
-                                Architecture (ECSA), Research track
-                            </li>
-                            <li>
-                                2026 12th International Conference on ICT for
-                                Sustainability (ICT4S), Research track
-                            </li>
-                            <li>
-                                2026 23rd International Conference on Software
-                                Architecture (ICSA), Research track
-                            </li>
-                            <li>
-                                2026 23rd International Conference on Mining
-                                Software Repositories (MSR), Registered Reports
-                                track
-                            </li>
-                            <li>
-                                2026 48th International Conference on Software
-                                Engineering (ICSE), Research track
-                            </li>
-                            <li>
-                                2025 1st International Workshop on Software
-                                Architecture for Data-Intensive Systems (SADIS)
-                            </li>
-                            <li>
-                                2025 19th European Conference on Software
-                                Architecture (ECSA), Research track
-                            </li>
-                            <li>
-                                2025 29th International Conference on Evaluation
-                                and Assessment in Software Engineering (EASE),
-                                Research track
-                            </li>
-                            <li>
-                                2025 3rd International Workshop on Responsible
-                                AI Engineering (RAIE)
-                            </li>
-                            <li>
-                                2025 22nd International Conference on Software
-                                Architecture (ICSA), Research track and Artifact
-                                Evaluation
-                            </li>
-                            <li>
-                                2025 4th International Conference on AI
-                                Engineering (CAIN), Research track and Doctoral
-                                Symposium
-                            </li>
-                            <li>
-                                2024 21st International Conference on Software
-                                Architecture (ICSA), Artifact Evaluation track
-                            </li>
-                            <li>
-                                2024 18th International Symposium on Empirical
-                                Software Engineering and Measurement (ESEM),
-                                Technical track
-                            </li>
-                            <li>
-                                2024 17th International Conference on the
-                                Quality of Information and Communications
-                                Technology (QUATIC), Quality Aspects of Services
-                                and Cloud Computing track
-                            </li>
-                            <li>
-                                2024 18th European Conference on Software
-                                Architecture (ECSA), Research track
-                            </li>
-                            <li>
-                                2024 8th International Workshop on Green and
-                                Sustainable Software (GREENS)
-                            </li>
-                            <li>
-                                2024 2nd International Workshop on Responsible
-                                AI Engineering (RAIE)
-                            </li>
-                            <li>
-                                2024 31st International Conference on Software
-                                Analysis, Evolution and Reengineering (SANER),
-                                RENE track
-                            </li>
-                            <li>
-                                2024 3rd International Conference on AI
-                                Engineering (CAIN), Research track and Doctoral
-                                Symposium
-                            </li>
-                            <li>
-                                2023 17th International Symposium on Empirical
-                                Software Engineering and Measurement (ESEM),
-                                ERVR track
-                            </li>
-                            <li>
-                                2023 17th European Conference on Software
-                                Architecture (ECSA), Research track
-                            </li>
-                            <li>
-                                2023 5th International Conference on
-                                Microservices (Microservices)
-                            </li>
-                            <li>
-                                2023 10th European Conference On
-                                Service-Oriented And Cloud Computing (ESOCC),
-                                Main track
-                            </li>
-                            <li>
-                                2023 49th Euromicro Conference on Software
-                                Engineering and Advanced Applications (SEAA),
-                                DAIDE track
-                            </li>
-                            <li>
-                                2023 2nd International Conference on AI
-                                Engineering (CAIN)
-                            </li>
-                            <li>
-                                2023 20th International Conference on Software
-                                Architecture (ICSA), NEMI track
-                            </li>
-                            <li>
-                                2022 16th European Conference on Software
-                                Architecture (ECSA), Research track
-                            </li>
-                            <li>
-                                2022 3rd International Workshop on Agility with
-                                Microservices Programming (AMP)
-                            </li>
-                            <li>
-                                2022 48th Euromicro Conference on Software
-                                Engineering and Advanced Applications (SEAA),
-                                CNADO track
-                            </li>
-                            <li>
-                                2021 15th European Conference on Software
-                                Architecture (ECSA), Tools & Demos track
-                            </li>
-                            <li>
-                                2021 2nd International Workshop on Agility with
-                                Microservices Programming (AMP)
-                            </li>
-                            <li>
-                                2021 47th Euromicro Conference on Software
-                                Engineering and Advanced Applications (SEAA),
-                                CNADO track
-                            </li>
-                            <li>
-                                2020 1st International Workshop on Agility with
-                                Microservices Programming (AMP)
-                            </li>
-                            <li>
-                                2020 46th Euromicro Conference on Software
-                                Engineering and Advanced Applications (SEAA),
-                                CNADO track
-                            </li>
-                            <li>
-                                2020 12th Central-European Workshop on Services
-                                and their Composition (ZEUS)
-                            </li>
-                        </ul>
+                        <YearAccordion groups={programCommitteeActivities} frequencyText={"PC memberships"} />
 
                         <h3>Journal and Grant Reviewing Activities</h3>
                         <ul>
@@ -239,78 +218,10 @@ const Service = () => {
                         </ul>
 
                         <h3>Organization Committee Activities</h3>
-                        <ul>
-                            <li>
-                                2027 21st European Conference on Software
-                                Architecture (ECSA), program committee co-chair
-                            </li>
-                            <li>
-                                2027 6th International Workshop on Software
-                                Architecture and Machine Learning (SAML),
-                                co-chair
-                            </li>
-                            <li>
-                                2027 24th International Conference on Software
-                                Architecture (ICSA), sustainability co-chair
-                            </li>
-                            <li>
-                                2026 International Software Architecture PhD
-                                School (ISAPS), co-organizer
-                            </li>
-                            <li>
-                                2026 5th International Workshop on Software
-                                Architecture and Machine Learning (SAML),
-                                co-chair
-                            </li>
-                            <li>
-                                2026 20th International Symposium on Empirical
-                                Software Engineering and Measurement (ESEM),
-                                open science co-chair
-                            </li>
-                            <li>
-                                2026 23rd International Conference on Software
-                                Architecture (ICSA), sponsorship co-chair
-                            </li>
-                            <li>
-                                2026 5th International Conference on AI
-                                Engineering (CAIN), program committee co-chair
-                            </li>
-                            <li>
-                                2025 4th International Workshop on Software
-                                Architecture and Machine Learning (SAML),
-                                co-chair
-                            </li>
-                            <li>
-                                2025 11th International Conference on ICT for
-                                Sustainability (ICT4S), publications chair
-                            </li>
-                            <li>
-                                2024 18th European Conference on Software
-                                Architecture (ECSA), open science chair
-                            </li>
-                            <li>
-                                2024 3rd International Workshop on Software
-                                Architecture and Machine Learning (SAML),
-                                co-chair
-                            </li>
-                            <li>
-                                2024 3rd International Conference on AI
-                                Engineering (CAIN), doctoral symposium co-chair
-                            </li>
-                            <li>
-                                2024 21st International Conference on Software
-                                Architecture (ICSA), publications co-chair
-                            </li>
-                            <li>
-                                2023 2nd International Conference on AI
-                                Engineering (CAIN), proceedings chair
-                            </li>
-                            <li>
-                                2022 2nd International Workshop on Software
-                                Architecture and Machine Learning (SAML),
-                                co-chair
-                            </li>
-                        </ul>
+                        <YearAccordion
+                            groups={organizationCommitteeActivities}
+                            frequencyText={"OC memberships"}
+                        />
 
                         <h3>Departmental Service and Invitations</h3>
                         <ul>

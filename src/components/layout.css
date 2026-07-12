@@ -196,6 +196,40 @@ nav a svg {
     display: inline-block;
 }
 
+/* Year accordions */
+
+.home-inner details {
+    border-bottom: 1px solid #ddd;
+}
+
+.home-inner details > summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: var(--color-primary);
+    padding: 0.5em 0;
+    list-style: none;
+}
+
+.home-inner details > summary::-webkit-details-marker {
+    display: none;
+}
+
+.home-inner details > summary::before {
+    content: "▶";
+    display: inline-block;
+    margin-right: 0.6em;
+    font-size: 70%;
+    transition: transform 0.15s ease;
+}
+
+.home-inner details[open] > summary::before {
+    transform: rotate(90deg);
+}
+
+.home-inner details > ul {
+    margin-top: 0;
+}
+
 /* Blog */
 
 .blog-list-item {
