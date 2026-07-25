@@ -4,77 +4,78 @@ const programCommitteeActivities = [
     {
         year: 2027,
         items: [
-            "24th International Conference on Software Architecture (ICSA), Research track",
+            "24th International Conference on Software Architecture (ICSA), Research Track",
+            "6th International Conference on AI Engineering (CAIN), Research Track",
         ],
     },
     {
         year: 2026,
         items: [
-            "20th International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical track",
-            "20th European Conference on Software Architecture (ECSA), Research track",
-            "12th International Conference on ICT for Sustainability (ICT4S), Research track",
-            "23rd International Conference on Software Architecture (ICSA), Research track",
-            "23rd International Conference on Mining Software Repositories (MSR), Registered Reports track",
-            "48th International Conference on Software Engineering (ICSE), Research track",
+            "20th International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Track",
+            "20th European Conference on Software Architecture (ECSA), Research Track",
+            "12th International Conference on ICT for Sustainability (ICT4S), Research Track",
+            "23rd International Conference on Software Architecture (ICSA), Research Track",
+            "23rd International Conference on Mining Software Repositories (MSR), Registered Reports Track",
+            "48th International Conference on Software Engineering (ICSE), Research Track",
         ],
     },
     {
         year: 2025,
         items: [
             "1st International Workshop on Software Architecture for Data-Intensive Systems (SADIS)",
-            "19th European Conference on Software Architecture (ECSA), Research track",
-            "29th International Conference on Evaluation and Assessment in Software Engineering (EASE), Research track",
+            "19th European Conference on Software Architecture (ECSA), Research Track",
+            "29th International Conference on Evaluation and Assessment in Software Engineering (EASE), Research Track",
             "3rd International Workshop on Responsible AI Engineering (RAIE)",
-            "22nd International Conference on Software Architecture (ICSA), Research track and Artifact Evaluation",
-            "4th International Conference on AI Engineering (CAIN), Research track and Doctoral Symposium",
+            "22nd International Conference on Software Architecture (ICSA), Research Track and Artifact Evaluation",
+            "4th International Conference on AI Engineering (CAIN), Research Track and Doctoral Symposium",
         ],
     },
     {
         year: 2024,
         items: [
-            "21st International Conference on Software Architecture (ICSA), Artifact Evaluation track",
-            "18th International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical track",
-            "17th International Conference on the Quality of Information and Communications Technology (QUATIC), Quality Aspects of Services and Cloud Computing track",
-            "18th European Conference on Software Architecture (ECSA), Research track",
+            "21st International Conference on Software Architecture (ICSA), Artifact Evaluation Track",
+            "18th International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Track",
+            "17th International Conference on the Quality of Information and Communications Technology (QUATIC), Quality Aspects of Services and Cloud Computing Track",
+            "18th European Conference on Software Architecture (ECSA), Research Track",
             "8th International Workshop on Green and Sustainable Software (GREENS)",
             "2nd International Workshop on Responsible AI Engineering (RAIE)",
-            "31st International Conference on Software Analysis, Evolution and Reengineering (SANER), RENE track",
-            "3rd International Conference on AI Engineering (CAIN), Research track and Doctoral Symposium",
+            "31st International Conference on Software Analysis, Evolution and Reengineering (SANER), RENE Track",
+            "3rd International Conference on AI Engineering (CAIN), Research Track and Doctoral Symposium",
         ],
     },
     {
         year: 2023,
         items: [
-            "17th International Symposium on Empirical Software Engineering and Measurement (ESEM), ERVR track",
-            "17th European Conference on Software Architecture (ECSA), Research track",
+            "17th International Symposium on Empirical Software Engineering and Measurement (ESEM), ERVR Track",
+            "17th European Conference on Software Architecture (ECSA), Research Track",
             "5th International Conference on Microservices (Microservices)",
-            "10th European Conference On Service-Oriented And Cloud Computing (ESOCC), Main track",
-            "49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), DAIDE track",
+            "10th European Conference On Service-Oriented And Cloud Computing (ESOCC), Main Track",
+            "49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), DAIDE Track",
             "2nd International Conference on AI Engineering (CAIN)",
-            "20th International Conference on Software Architecture (ICSA), NEMI track",
+            "20th International Conference on Software Architecture (ICSA), NEMI Track",
         ],
     },
     {
         year: 2022,
         items: [
-            "16th European Conference on Software Architecture (ECSA), Research track",
+            "16th European Conference on Software Architecture (ECSA), Research Track",
             "3rd International Workshop on Agility with Microservices Programming (AMP)",
-            "48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO track",
+            "48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO Track",
         ],
     },
     {
         year: 2021,
         items: [
-            "15th European Conference on Software Architecture (ECSA), Tools & Demos track",
+            "15th European Conference on Software Architecture (ECSA), Tools & Demos Track",
             "2nd International Workshop on Agility with Microservices Programming (AMP)",
-            "47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO track",
+            "47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO Track",
         ],
     },
     {
         year: 2020,
         items: [
             "1st International Workshop on Agility with Microservices Programming (AMP)",
-            "46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO track",
+            "46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), CNADO Track",
             "12th Central-European Workshop on Services and their Composition (ZEUS)",
         ],
     },
@@ -133,7 +134,12 @@ const YearAccordion = ({ groups, frequencyText }) => (
     <>
         {groups.map(({ year, items }, index) => (
             <details key={year} open={index < 2}>
-                <summary>{year} <small>({frequencyText}: {items.length})</small></summary>
+                <summary>
+                    {year}{" "}
+                    <small>
+                        ({frequencyText}: {items.length})
+                    </small>
+                </summary>
                 <ul>
                     {items.map((item) => (
                         <li key={item}>{item}</li>
@@ -158,7 +164,10 @@ const Service = () => {
                         </p>
 
                         <h3>Program Committee Activities</h3>
-                        <YearAccordion groups={programCommitteeActivities} frequencyText={"PC memberships"} />
+                        <YearAccordion
+                            groups={programCommitteeActivities}
+                            frequencyText={"PC memberships"}
+                        />
 
                         <h3>Journal and Grant Reviewing Activities</h3>
                         <ul>
