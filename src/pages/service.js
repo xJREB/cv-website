@@ -4,6 +4,7 @@ const programCommitteeActivities = [
     {
         year: 2027,
         items: [
+            "24th International Conference on Mining Software Repositories (MSR), Registered Reports Track",
             "24th International Conference on Software Architecture (ICSA), Research Track",
             "6th International Conference on AI Engineering (CAIN), Research Track",
         ],
@@ -223,6 +224,10 @@ const Service = () => {
                             <li>
                                 International Conference on AI Engineering
                                 (CAIN), Steering Committee Member (2025 - 2027)
+                            </li>
+                            <li>
+                                European Conference on Software Architecture
+                                (ECSA), Steering Committee Member (2026 - 2028)
                             </li>
                         </ul>
 

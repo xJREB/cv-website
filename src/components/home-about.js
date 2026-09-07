@@ -39,9 +39,9 @@ const About = () => {
                     , I led the division "Software Engineering for AI- &
                     Microservice-Based Systems" (SE4AI&MS). I regularly review
                     for journals, conferences, and workshops, such as IEEE TSE,
-                    EMSE, ACM TOSEM, IEEE Software, ECSA, CAIN, or ESEM. Lastly,
-                    I am also a co-organizer of the{" "}
-                    <a href="https://sa-ml.github.io/saml2025">
+                    EMSE, ACM TOSEM, IEEE Software, ICSA, ECSA, CAIN, or ESEM.
+                    Lastly, I am also a co-organizer of the{" "}
+                    <a href="https://saml-workshop.github.io/saml2027">
                         SAML workshop
                     </a>
                     , which combines software architecture and machine learning.

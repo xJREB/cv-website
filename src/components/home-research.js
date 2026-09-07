@@ -13,16 +13,16 @@ const Research = () => {
                     To study and improve software engineering, I apply both
                     quantitative and qualitative{" "}
                     <strong>empirical methods</strong>, such as controlled
-                    experiments, systematic literature reviews, surveys,
-                    interviews, repository mining, or case studies. Based on
-                    these results, I then create and evaluate tools or methods
-                    to support software professionals. While I conducted studies
-                    in other areas, my two main SE knowledge areas are{" "}
-                    <strong>software architecture</strong> and{" "}
+                    experiments, systematic literature reviews, questionnaire
+                    surveys, interviews, repository mining, or case studies.
+                    Based on these results, I then create and evaluate tools or
+                    techniques to support software professionals. While I
+                    conducted studies in other areas, my two main SE knowledge
+                    areas are <strong>software architecture</strong> and{" "}
                     <strong>software quality</strong>, especially evolvability,
-                    technical debt, and sustainability. Moreover, I mainly study
-                    two types of systems described below. For more details,
-                    please refer to my{" "}
+                    technical debt, and sustainability. Moreover, I have mainly
+                    studied two types of systems described below. For more
+                    details, please refer to my{" "}
                     <Link to="/publications/">publications</Link>.
                 </p>
 
@@ -50,10 +50,12 @@ const Research = () => {
                         , I studied the evolvability assurance of the
                         architectural style <strong>microservices</strong>, and
                         approached the topic via metrics, scenario-based
-                        evaluation, and (anti-)patterns. While I still continue
-                        parts of this line of research, I'm also interested in
-                        microservices migration, the design of RESTful APIs, and
-                        web-based applications in general.
+                        evaluation, and (anti-)patterns. Related to this, I have
+                        also been involved in studies about microservices
+                        migration and the design of RESTful APIs and looked into
+                        the energy efficiency of microservices. However, most of
+                        my research efforts these days are spent on the other
+                        type of systems (see below).
                     </p>
                 </div>
 
@@ -76,12 +78,12 @@ const Research = () => {
                         </figcaption>
                     </figure>
                     <p>
-                        After my PhD, I also broadened my scope with an
-                        additional research area: software engineering for
-                        AI-based systems (SE4AI). Here, I am mostly interested
-                        in the architecture and quality attribute trade-offs of
-                        systems with AI components, e.g., systems which include
-                        one or more machine learning models. Next to, e.g.,
+                        After my PhD, I broadened my scope with an additional
+                        research area: software engineering for AI-based systems
+                        (SE4AI). Here, I am mostly interested in the
+                        architecture and quality attribute trade-offs of systems
+                        with AI components, e.g., systems which include one or
+                        more machine learning models. Next to, e.g.,
                         maintainability or evolvability, one quality attribute
                         I'm particularly interested in is energy efficiency,
                         i.e., I study Green AI from a software engineering
