@@ -87,6 +87,7 @@ const organizationCommitteeActivities = [
         year: 2027,
         items: [
             "21st European Conference on Software Architecture (ECSA), program committee co-chair",
+            "10th International Software Architecture PhD School (ISAPS), co-organizer",
             "6th International Workshop on Software Architecture and Machine Learning (SAML), co-chair",
             "24th International Conference on Software Architecture (ICSA), sustainability co-chair",
         ],
